@@ -21,3 +21,19 @@ foundrydata/
 
 7 directories, 4 files
 ```
+
+## Modules
+
+Organization and layout based on this project:
+https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration
+
+### DnD 5e Game Automation | Ease of Play
+
+### GM Addons to make game prep easier
+
+### Base Foundry Enhancements
+
+### Integrations with other tools/sites
+
+### Evaluating/Testing
+
