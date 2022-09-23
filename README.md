@@ -47,7 +47,6 @@ foundrydata/
 - `Selective Show` - **DO NOT NEED in v10** - function is added into core
 - `Settings Extender` - module dependency
 - `socketlib` - module dependency
-- `The Forge: More Awesomeness` - forge module dependency
 - `Token Mold` - fix and improve token creation from actors with templates
 - `Tokenizer` - Edit/Add frames around tokens
 </details>
@@ -88,12 +87,13 @@ foundrydata/
 ### GM Addons to make game prep easier
 <details>
   <summary>Click to expand</summary>
-- `Moulinette Core`
-  - `Moulinette Game Icons (module)`
-  - `Moulinette Image Search (module)`
-  - `Moulinette Scenes (module)`
-  - `Moulinette Sound & SoundPad (module)`
-  - `Moulinette Tiles (module)`
+
+  - `Moulinette Core`
+    - `Moulinette Game Icons (module)`
+    - `Moulinette Image Search (module)`
+    - `Moulinette Scenes (module)`
+    - `Moulinette Sound & SoundPad (module)`
+    - `Moulinette Tiles (module)`
 
 </details>
 
@@ -101,6 +101,8 @@ foundrydata/
 <details>
   <summary>Click to expand</summary>
 
+  - [`D&D Beyond Importer`](https://foundryvtt.com/packages/ddb-importer)
+  - `The Forge: More Awesomeness` - forge module dependency
 
 </details>
 
@@ -112,7 +114,10 @@ foundrydata/
 - `Combat Carousel` (active)
 - `Combat Utility Belt` - (installed but disabled) - might not need it anymore with other automations
 - `Dice So Nice!` (installed but disabled)
+- `DnD5e UI` (installed but disabled) - Creates nice cards in chat, tab icons change which might require some getting used to
+- `Forien's Quest Log` (installed but disabled)
 - [`Less Fog`](https://github.com/trdischat/lessfog) (installed but disabled)
+- `tabletopaudio` (installed but disabled) - integration with the website https://tabletopaudio.com/ - can create audio streams players can tune in to
 
 </details>
 
