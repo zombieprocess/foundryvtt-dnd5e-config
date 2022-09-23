@@ -1,7 +1,11 @@
 # foundryvtt-dnd5e-config
 Version control for the configs we use, and particularly keep track of the modules and their setup
 
-## directory and file summary
+| Notice  |
+| ------ |
+| Organization and layout based on this project: https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration |
+
+## Foundry VTT directory and file summary
 
 ```shell
 $ tree -L 2 foundrydata/
@@ -24,10 +28,6 @@ foundrydata/
 
 ## Modules
 
-| Notice  |
-| ------ |
-| Organization and layout based on this project: https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration |
-
 ### Base Foundry Enhancements
 <details>
   <summary>Click to expand</summary
@@ -35,6 +35,8 @@ foundrydata/
 - `Compendium Folders` - organizes Compendium content
 - `Changelogs & Conflicts`
 - `Dice Tray` - Adds a dice tray
+- `DNDBeyond Character Sheet for 5E` - Reskin of the default character sheet
+- `DNDBeyond NPC Sheet` - Reskin of the default NPC sheet
 - [`Forien's Copy Environment`](https://foundryvtt.com/packages/forien-copy-environment/) - Export/Import global server configs
 - `Foundry Community Macros`
 - `lib - Color Settings` - module dependency
@@ -43,8 +45,8 @@ foundrydata/
 - `PopOut!` - Pop any window out of the game into it's own dedicated window, great for having notes open
 - `Search Anywhere`
 - [`Navigation Presets`](https://foundryvtt.com/packages/navigation-presets) - organizes maps, scenes, and chapters/groups
-- `Module Compatibility Checker`
-- `Selective Show`
+- `Module Compatibility Checker` - See settings > Manage Modules > `Button`
+- `Selective Show` - **DO NOT NEED in v10** - function is added into core
 - `Settings Extender` - module dependency
 - `socketlib` - module dependency
 - `The Forge: More Awesomeness` - forge module dependency
@@ -56,7 +58,6 @@ foundrydata/
 <details>
   <summary>DnD 5e Game Automation | Ease of Play</summary>
 
-- `About Time` (pending)
 - `Active Token Effects`
 - `Active-Auras`
 - `Better Rolls for 5e`
@@ -108,8 +109,10 @@ foundrydata/
 <details>
   <summary>Click to expand</summary>
 
-- `Argon - Combat HUD`
-- `Combat Carousel`
+- `About Time` (pending)
+- `Argon - Combat HUD` (active)
+- `Combat Carousel` (active)
+- `Dice So Nice!` (installed but disabled)
 
 </details>
 
