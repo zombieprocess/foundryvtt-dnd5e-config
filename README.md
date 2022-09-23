@@ -35,6 +35,7 @@ foundrydata/
 - `Compendium Folders` - organizes Compendium content
 - `Changelogs & Conflicts`
 - `Dice Tray` - Adds a dice tray
+- [`Forien's Copy Environment`](https://foundryvtt.com/packages/forien-copy-environment/) - Export/Import global server configs
 - `Foundry Community Macros`
 - `lib - Color Settings` - module dependency
 - `libWrapper` - module dependency
