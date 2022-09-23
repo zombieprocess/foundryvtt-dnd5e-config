@@ -113,6 +113,7 @@ foundrydata/
 - `Argon - Combat HUD` (active)
 - `Combat Carousel` (active)
 - `Dice So Nice!` (installed but disabled)
+- [`Less Fog`](https://github.com/trdischat/lessfog) (pending)
 
 </details>
 
