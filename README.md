@@ -1,25 +1,25 @@
 # foundryvtt-dnd5e-config
 Version control for the configs we use, and particularly keep track of the modules and their setup
 
-| Notice  |
+| Organization and layout based on this project:   |
 | ------ |
-| Organization and layout based on this project: https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration |
+|  https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration |
 
-## Foundry VTT directory and file summary
+## Local FoundryVTT directory and file summary
 
 ```shell
 $ tree -L 2 foundrydata/
 
 foundrydata/
-├── Config
+├── Config/
 │   ├── license.json
 │   └── options.json
 ├── Data
-│   ├── ddb-images
-│   ├── modules
-│   ├── systems
-│   └── worlds
-└── Logs
+│   ├── ddb-images/
+│   ├── modules/
+│   ├── systems/
+│   └── worlds/
+└── Logs/
     ├── debug.log
     └── error.log
 
@@ -35,8 +35,6 @@ foundrydata/
 - `Compendium Folders` - organizes Compendium content
 - `Changelogs & Conflicts`
 - `Dice Tray` - Adds a dice tray
-- `DNDBeyond Character Sheet for 5E` - Reskin of the default character sheet
-- `DNDBeyond NPC Sheet` - Reskin of the default NPC sheet
 - [`Forien's Copy Environment`](https://foundryvtt.com/packages/forien-copy-environment/) - Export/Import global server configs
 - `Foundry Community Macros`
 - `lib - Color Settings` - module dependency
@@ -50,13 +48,13 @@ foundrydata/
 - `Settings Extender` - module dependency
 - `socketlib` - module dependency
 - `The Forge: More Awesomeness` - forge module dependency
-- `Token Mold` - fix and improve token creation from actors
-- `Tokenizer` - Add frames around tokens
+- `Token Mold` - fix and improve token creation from actors with templates
+- `Tokenizer` - Edit/Add frames around tokens
 </details>
 
-### DnD 5e Game Automation | Ease of Play
+### DnD 5e and Game Automation | Ease of Play
 <details>
-  <summary>DnD 5e Game Automation | Ease of Play</summary>
+  <summary>Click to expand</summary>
 
 - `Active Token Effects`
 - `Active-Auras`
@@ -64,13 +62,14 @@ foundrydata/
 - `Beyond20 companion module`
 - `Combat Enhancements`
 - `Combat Ready!`
-- `Combat Utility Belt`
 - `Dfreds Convenient Effects`
 - `Dfreds Droppables`
+- `DNDBeyond Character Sheet for 5E` - Reskin of the default character sheet
+- `DNDBeyond NPC Sheet` - Reskin of the default NPC sheet
 - `FXMaster`
-- `Group Initiative`
-- `Health Estimate`
-- `Initiative Double Click`
+- `Group Initiative` - Group monster rolls
+- `Health Estimate` - Lets people know approximate health
+- `Initiative Double Click` - enables fixing Initiative rolls/ordering
 - `Item Macro`
 - `Automatic Automations` | `Sequencer` | `JB2A` (Tightly coupled)
   - `Dynamic Active Effects SRD`
@@ -80,7 +79,7 @@ foundrydata/
   - `Midi SRD`
   - `Token Magic Effects`
 - `Mob Attack Tool` - Combine attacks from many creatures into one
-- `Perfect Vision`
+- `Perfect Vision` - **MIGHT be going away in v10** because this is in the core
 - `Splatter` - blood Splatter on "bloodied"
 - [`Trigger Happy`](https://foundryvtt.com/packages/trigger-happy) - Trigger events like pause the game for traps, or descriptions, or make Automations/effects
 
@@ -109,11 +108,11 @@ foundrydata/
 <details>
   <summary>Click to expand</summary>
 
-- `About Time` (pending)
 - `Argon - Combat HUD` (active)
 - `Combat Carousel` (active)
+- `Combat Utility Belt` - (installed but disabled) - might not need it anymore with other automations
 - `Dice So Nice!` (installed but disabled)
-- [`Less Fog`](https://github.com/trdischat/lessfog) (pending)
+- [`Less Fog`](https://github.com/trdischat/lessfog) (installed but disabled)
 
 </details>
 
