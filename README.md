@@ -44,6 +44,7 @@ foundrydata/
 - `Search Anywhere`
 - [`Navigation Presets`](https://foundryvtt.com/packages/navigation-presets) - organizes maps, scenes, and chapters/groups
 - `Module Compatibility Checker` - See settings > Manage Modules > `Button`
+- `Minimal UI` - Does just that, collapses tray for abilities and macros, same for logged in users, drops the Foundryvtt icon which just takes up space.
 - `Selective Show` - **DO NOT NEED in v10** - function is added into core
 - `Settings Extender` - module dependency
 - `socketlib` - module dependency
