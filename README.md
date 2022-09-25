@@ -1,9 +1,16 @@
 # foundryvtt-dnd5e-config
-Version control for the configs we use, and particularly keep track of the modules and their setup
+Version control for the configs we use, and particularly keep track of the modules and their setup.
 
 | Organization and layout based on this project:   |
 | ------ |
 |  https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration |
+
+## Foundational approach
+
+- D&D Beyond Character sheets are the place of record for characters
+- At the beginning of a session we should sync into Foundry/Forge VTT
+- At the end of a session (or before we play next) we ensure D&D Beyond player character sheets are updated.
+
 
 ## Local FoundryVTT directory and file summary
 
@@ -34,7 +41,7 @@ foundrydata/
 
 - `Compendium Folders` - organizes Compendium content
 - `Changelogs & Conflicts`
-- `Dice Tray` - Adds a dice tray
+- `Dice Tray` - Adds a dice tray under the chat
 - [`Forien's Copy Environment`](https://foundryvtt.com/packages/forien-copy-environment/) - Export/Import global server configs
 - `Foundry Community Macros`
 - `lib - Color Settings` - module dependency
@@ -60,27 +67,27 @@ foundrydata/
 - `Active-Auras`
 - `Better Rolls for 5e`
 - `Beyond20 companion module`
-- `Combat Enhancements`
-- `Combat Ready!`
-- `Dfreds Convenient Effects`
-- `Dfreds Droppables`
+- `Combat Enhancements` - modification for combat tracker to include HP tracking, clears targets on "next turn"
+- `Combat Ready!` - Helps combat flow better with notifications like "Next Up" and if you want timers for turns.
+- `Dfreds Convenient Effects` - scripted macros and effects for abilities, mechanics and spells which can be added to players and npcs.
+- `Dfreds Droppables` -
 - `DNDBeyond Character Sheet for 5E` - Reskin of the default character sheet
 - `DNDBeyond NPC Sheet` - Reskin of the default NPC sheet
-- `FXMaster`
+- `FXMaster` - Adds additional effects, like weather, environment and matching sounds, pull these in on demand.
 - `Group Initiative` - Group monster rolls
-- `Health Estimate` - Lets people know approximate health
-- `Initiative Double Click` - enables fixing Initiative rolls/ordering
+- `Health Estimate` - Lets people know approximate health of tokens that are not their own
+- `Initiative Double Click` - enables fixing Initiative rolls/ordering during combat
 - `Item Macro`
 - `Automatic Automations` | `Sequencer` | `JB2A` (Tightly coupled)
-  - `Dynamic Active Effects SRD`
+  - `Dynamic Active Effects SRD` -
   - `Dynamic Effects using Active Effects`
-- `Let Me Roll that For You` (LMRTFY)
-- `MidiQOL` | `Dynamic Active Effects` (DAE) | `Times Up` (Tightly coupled)
+- `Let Me Roll that For You` (LMRTFY) - prompts for roll, like saving throws
+- `MidiQOL` | `Dynamic Active Effects` (DAE) | `Times Up` (Tightly coupled) - high level of automation and effects
   - `Midi SRD`
   - `Token Magic Effects`
 - `Mob Attack Tool` - Combine attacks from many creatures into one
 - `Perfect Vision` - **MIGHT be going away in v10** because this is in the core
-- `Splatter` - blood Splatter on "bloodied"
+- `Splatter` - blood Splatter on "bloodied" and death
 - [`Trigger Happy`](https://foundryvtt.com/packages/trigger-happy) - Trigger events like pause the game for traps, or descriptions, or make Automations/effects
 
 </details>
@@ -102,8 +109,8 @@ foundrydata/
 <details>
   <summary>Click to expand</summary>
 
-  - [`D&D Beyond Importer`](https://foundryvtt.com/packages/ddb-importer)
-  - `The Forge: More Awesomeness` - forge module dependency
+  - [`D&D Beyond Importer`](https://foundryvtt.com/packages/ddb-importer) - Mature DDB import and sync tool. Patreon supported. Can sync players back to D&D Beyond.
+  - `The Forge: More Awesomeness` - forge module dependency, need API key to configure storage use
 
 </details>
 
@@ -112,7 +119,7 @@ foundrydata/
   <summary>Click to expand</summary>
 
 - `Argon - Combat HUD` (active)
-- `Combat Carousel` (active)
+- `Combat Carousel` (active) - adds alternative combat tracker
 - `Combat Utility Belt` - (installed but disabled) - might not need it anymore with other automations
 - `Dice So Nice!` (installed but disabled)
 - `DnD5e UI` (installed but disabled) - Creates nice cards in chat, tab icons change which might require some getting used to
