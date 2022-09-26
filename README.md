@@ -10,27 +10,23 @@ Version control for the configs we use, and particularly keep track of the modul
 - D&D Beyond Character sheets are the place of record for characters
 - At the beginning of a session we should sync into Foundry/Forge VTT
 - At the end of a session (or before we play next) we ensure D&D Beyond player character sheets are updated.
+- No secrets are stored in the config files (apiKey, passwords, user accounts, etc.)
 
-
-## Local FoundryVTT directory and file summary
+### directory structure and file summary
 
 ```shell
-$ tree -L 2 foundrydata/
+$ tree -F -L 3 foundryvtt-dnd5e-config/
+foundryvtt-dnd5e-config/
+├── foundry-settings-export.json          <== Server config export
+├── modules/                              <== Module configs exports
+│   ├── compendium-folders/
+│   │   ├── compendium-folders.json
+│   │   └── README.md
+│   └── midi-qol/
+│       └── fvtt-midi-qol-settings.json
+└── README.md                             <== This README
 
-foundrydata/
-├── Config/
-│   ├── license.json
-│   └── options.json
-├── Data
-│   ├── ddb-images/
-│   ├── modules/
-│   ├── systems/
-│   └── worlds/
-└── Logs/
-    ├── debug.log
-    └── error.log
-
-7 directories, 4 files
+3 directories, 5 files
 ```
 
 ## Modules
