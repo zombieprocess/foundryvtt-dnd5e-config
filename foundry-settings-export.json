@@ -1,0 +1,1121 @@
+[
+  {
+    "key": "autoanimations.aaAutorec",
+    "value": "{\"version\":4,\"search\":\"\",\"melee\":{\"0\":{\"hidden\":true,\"name\":\"Dagger\",\"animation\":\"dagger\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"switchType\":\"on\",\"meleeType\":\"weapon\",\"menuSection\":\"0\",\"menuType\":\"weapon\"},\"1\":{\"hidden\":true,\"name\":\"Flurry of Blows\",\"animation\":\"flurryofblows\",\"variant\":\"physical\",\"color\":\"blue\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"switchType\":\"on\",\"meleeType\":\"weapon\",\"menuSection\":\"1\",\"menuType\":\"weapon\"},\"2\":{\"hidden\":true,\"name\":\"Greataxe\",\"animation\":\"greataxe\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"switchType\":\"on\",\"meleeType\":\"weapon\",\"menuSection\":\"2\",\"menuType\":\"weapon\"},\"3\":{\"hidden\":true,\"name\":\"Greatclub\",\"animation\":\"greatclub\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"switchType\":\"on\",\"meleeType\":\"weapon\",\"menuSection\":\"3\",\"menuType\":\"weapon\"},\"4\":{\"hidden\":true,\"name\":\"Greatsword\",\"animation\":\"greatsword\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"switchType\":\"on\",\"meleeType\":\"weapon\",\"menuSection\":\"4\",\"menuType\":\"weapon\"},\"5\":{\"hidden\":true,\"name\":\"Handaxe\",\"animation\":\"handaxe\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"switchType\":\"on\",\"meleeType\":\"weapon\",\"menuSection\":\"5\",\"menuType\":\"weapon\"},\"6\":{\"hidden\":true,\"name\":\"Longsword\",\"animation\":\"sword\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"switchType\":\"on\",\"meleeType\":\"weapon\",\"menuSection\":\"6\",\"menuType\":\"weapon\"},\"7\":{\"hidden\":true,\"name\":\"Mace\",\"animation\":\"mace\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"switchType\":\"on\",\"meleeType\":\"weapon\",\"menuSection\":\"7\",\"menuType\":\"weapon\"},\"8\":{\"hidden\":true,\"name\":\"Maul\",\"animation\":\"maul\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"switchType\":\"on\",\"meleeType\":\"weapon\",\"menuSection\":\"8\",\"menuType\":\"weapon\"},\"9\":{\"hidden\":true,\"name\":\"Rapier\",\"animation\":\"rapier\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"switchType\":\"on\",\"meleeType\":\"weapon\",\"menuSection\":\"11\",\"menuType\":\"weapon\"},\"10\":{\"hidden\":true,\"name\":\"Shortsword\",\"animation\":\"sword\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"switchType\":\"on\",\"meleeType\":\"weapon\",\"menuSection\":\"9\",\"menuType\":\"weapon\"},\"11\":{\"hidden\":true,\"name\":\"Spear\",\"animation\":\"spear\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"switchType\":\"on\",\"meleeType\":\"weapon\",\"menuSection\":\"10\",\"menuType\":\"weapon\"},\"12\":{\"hidden\":true,\"name\":\"Unarmed Strike\",\"animation\":\"unarmedstrike\",\"variant\":\"physical\",\"color\":\"blue\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"switchType\":\"on\",\"meleeType\":\"weapon\",\"menuSection\":\"12\",\"menuType\":\"weapon\"}},\"range\":{\"0\":{\"hidden\":false,\"name\":\"Crossbow, Hand\",\"type\":\"weapon\",\"animation\":\"bolt\",\"variant\":\"physical\",\"color\":\"orange\",\"repeat\":1,\"delay\":500,\"below\":false,\"menuSection\":\"12\",\"anim2d\":false,\"soundOnly\":{\"enable\":false},\"macro\":{\"enable\":false},\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"explosion\":{\"enable\":false},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"weapon\"},\"1\":{\"hidden\":true,\"name\":\"Disintegrate\",\"type\":\"spell\",\"animation\":\"disintegrate\",\"variant\":\"01\",\"color\":\"green\",\"repeat\":1,\"delay\":500,\"below\":false,\"menuSection\":\"3\",\"menuType\":\"spell\"},\"2\":{\"hidden\":true,\"name\":\"Eldritch Blast\",\"type\":\"spell\",\"animation\":\"eldritchblast\",\"variant\":\"01\",\"color\":\"purple\",\"repeat\":1,\"delay\":500,\"below\":false,\"menuSection\":\"4\",\"menuType\":\"spell\"},\"3\":{\"hidden\":false,\"name\":\"Fire Bolt\",\"type\":\"spell\",\"animation\":\"firebolt\",\"variant\":\"01\",\"color\":\"orange\",\"repeat\":1,\"delay\":500,\"below\":false,\"menuSection\":\"5\",\"anim2d\":false,\"soundOnly\":{\"enable\":false},\"macro\":{\"enable\":false},\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"explosion\":{\"enable\":false},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"spell\"},\"4\":{\"hidden\":true,\"name\":\"Guiding Bolt\",\"type\":\"spell\",\"animation\":\"guidingbolt\",\"variant\":\"01\",\"color\":\"blueyellow\",\"repeat\":1,\"delay\":500,\"below\":false,\"menuSection\":\"6\",\"menuType\":\"spell\"},\"5\":{\"hidden\":false,\"name\":\"Hand Crossbow\",\"type\":\"weapon\",\"animation\":\"bolt\",\"variant\":\"physical\",\"color\":\"orange\",\"repeat\":1,\"delay\":500,\"below\":false,\"menuSection\":\"11\",\"anim2d\":false,\"soundOnly\":{\"enable\":false},\"macro\":{\"enable\":false},\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"explosion\":{\"enable\":false},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"weapon\"},\"6\":{\"hidden\":true,\"name\":\"Heavy Crossbow\",\"type\":\"weapon\",\"animation\":\"bolt\",\"variant\":\"physical\",\"color\":\"orange\",\"repeat\":1,\"delay\":500,\"below\":false,\"menuSection\":\"0\",\"menuType\":\"weapon\"},\"7\":{\"hidden\":true,\"name\":\"Longbow\",\"type\":\"weapon\",\"animation\":\"arrow\",\"variant\":\"regular\",\"color\":\"regular\",\"repeat\":1,\"delay\":500,\"below\":false,\"menuSection\":\"1\",\"menuType\":\"weapon\"},\"8\":{\"hidden\":true,\"name\":\"Magic Missile\",\"type\":\"spell\",\"animation\":\"magicmissile\",\"variant\":\"01\",\"color\":\"purple\",\"repeat\":3,\"delay\":500,\"below\":false,\"menuSection\":\"7\",\"menuType\":\"spell\"},\"9\":{\"hidden\":true,\"name\":\"Ray of Frost\",\"type\":\"spell\",\"animation\":\"rayoffrost\",\"variant\":\"01\",\"color\":\"blue\",\"repeat\":1,\"delay\":500,\"below\":false,\"menuSection\":\"8\",\"menuType\":\"spell\"},\"10\":{\"hidden\":true,\"name\":\"Scorching Ray\",\"type\":\"spell\",\"animation\":\"scorchingray\",\"variant\":\"01\",\"color\":\"orange\",\"repeat\":1,\"delay\":500,\"below\":false,\"menuSection\":\"9\",\"menuType\":\"spell\"},\"11\":{\"hidden\":true,\"name\":\"Shortbow\",\"type\":\"weapon\",\"animation\":\"arrow\",\"variant\":\"regular\",\"color\":\"regular\",\"repeat\":1,\"delay\":500,\"below\":false,\"menuSection\":\"2\",\"menuType\":\"weapon\"},\"12\":{\"hidden\":true,\"name\":\"Witch Bolt\",\"type\":\"spell\",\"animation\":\"witchbolt\",\"variant\":\"01\",\"color\":\"blue\",\"repeat\":1,\"delay\":500,\"below\":false,\"menuSection\":\"10\",\"menuType\":\"spell\"}},\"static\":{\"0\":{\"hidden\":true,\"name\":\"Bite\",\"type\":\"target\",\"animation\":\"bite\",\"variant\":\"\",\"color\":\"\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"staticOptions\":\"creature\",\"menuSection\":\"3\",\"menuType\":\"creature\"},\"1\":{\"hidden\":true,\"name\":\"Claws\",\"type\":\"target\",\"animation\":\"claw\",\"variant\":\"\",\"color\":\"\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"staticOptions\":\"creature\",\"menuSection\":\"4\",\"menuType\":\"creature\"},\"2\":{\"hidden\":true,\"name\":\"Cure Wounds\",\"type\":\"targetDefault\",\"animation\":\"curewounds\",\"variant\":\"01\",\"color\":\"blue\",\"repeat\":1,\"delay\":500,\"scale\":1.5,\"below\":true,\"custom\":false,\"staticOptions\":\"staticSpells\",\"menuSection\":\"0\",\"menuType\":\"spell\"},\"3\":{\"hidden\":true,\"name\":\"Healing Word\",\"type\":\"targetDefault\",\"animation\":\"generichealing\",\"variant\":\"01\",\"color\":\"blue\",\"repeat\":1,\"delay\":500,\"scale\":1.5,\"below\":true,\"custom\":false,\"staticOptions\":\"staticSpells\",\"menuSection\":\"1\",\"menuType\":\"spell\"},\"4\":{\"hidden\":true,\"name\":\"Toll the Dead\",\"type\":\"target\",\"animation\":\"tollthedead\",\"variant\":\"complete\",\"color\":\"green\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"staticOptions\":\"staticSpells\",\"menuSection\":\"2\",\"menuType\":\"spell\"}},\"templates\":{\"0\":{\"hidden\":false,\"name\":\"Call Lightning\",\"type\":\"circle\",\"animation\":\"calllightning\",\"variant\":\"01\",\"color\":\"blueorange\",\"repeat\":1,\"delay\":500,\"below\":false,\"custom\":false,\"opacity\":0.75,\"removeTemplate\":true,\"persist\":true,\"overhead\":true,\"occlusionMode\":\"3\",\"occlusionAlpha\":0.7,\"persistType\":\"overheadtile\",\"scaleX\":1,\"scaleY\":1,\"menuSection\":\"0\",\"menuType\":\"circle\"},\"1\":{\"hidden\":true,\"name\":\"Fireball\",\"type\":\"circle\",\"animation\":\"ex01\",\"variant\":\"\",\"color\":\"orange\",\"repeat\":1,\"delay\":500,\"below\":false,\"custom\":false,\"opacity\":0.75,\"removeTemplate\":false,\"persist\":false,\"scaleX\":1,\"scaleY\":1,\"menuSection\":\"3\",\"menuType\":\"circle\"},\"2\":{\"hidden\":true,\"name\":\"Fog Cloud\",\"type\":\"circle\",\"animation\":\"fogcloud\",\"variant\":\"01\",\"color\":\"0\",\"repeat\":1,\"delay\":500,\"below\":false,\"custom\":false,\"opacity\":0.75,\"removeTemplate\":true,\"persist\":true,\"overhead\":true,\"occlusionMode\":\"3\",\"occlusionAlpha\":0.65,\"persistType\":\"overheadtile\",\"scaleX\":1,\"scaleY\":1,\"menuSection\":\"1\",\"menuType\":\"circle\"},\"3\":{\"hidden\":true,\"name\":\"Thunderwave\",\"type\":\"rect\",\"animation\":\"thunderwave\",\"variant\":\"01\",\"color\":\"\",\"repeat\":3,\"delay\":500,\"below\":false,\"custom\":false,\"opacity\":0.75,\"removeTemplate\":true,\"persist\":false,\"scaleX\":1,\"scaleY\":1,\"menuSection\":\"2\",\"menuType\":\"square\"}},\"auras\":{\"0\":{\"hidden\":true,\"name\":\"Spirit Guardians\",\"animation\":\"spiritguardians\",\"variant\":\"01\",\"color\":\"yellowblue\",\"scale\":7,\"tint\":\"#ffffff\",\"ignoretargets\":true,\"below\":false,\"static\":false,\"opacity\":0.75,\"custom\":false,\"menuSection\":\"0\",\"menuType\":\"spell\"}},\"preset\":{\"0\":{\"hidden\":true,\"name\":\"Bardic Inspiration\",\"animation\":\"bardicinspiration\",\"scale\":1,\"below\":false,\"animateSelf\":true,\"selfAnimation\":\"music\",\"selfColor\":\"blue\",\"animateTarget\":true,\"targetAnimation\":\"bardicinspiration\",\"targetColor\":\"greenorange\",\"marker\":true,\"selfMarkerColor\":\"\",\"targetMarkerColor\":\"\",\"menuSection\":\"0\"},\"1\":{\"hidden\":true,\"name\":\"Bless\",\"animation\":\"bless\",\"scale\":1.5,\"below\":true,\"color\":\"yellow\",\"addCTA\":false,\"menuSection\":\"1\"},\"2\":{\"hidden\":true,\"name\":\"Misty Step\",\"animation\":\"teleportation\",\"scale\":1.5,\"below\":false,\"subAnimation\":\"mistystep\",\"color\":\"blue\",\"range\":30,\"hideTemplate\":false,\"custom\":false,\"measureType\":\"alternating\",\"custom02\":false,\"customPath02\":\"\",\"subAnimation02\":\"mistystep\",\"variant\":\"01\",\"variant02\":\"02\",\"color02\":\"blue\",\"scale02\":1.5,\"menuSection\":\"3\",\"menuType\":\"spell\",\"menuType02\":\"spell\"},\"3\":{\"hidden\":true,\"name\":\"Shield\",\"animation\":\"shieldspell\",\"scale\":1,\"below\":false,\"variant\":\"01\",\"color\":\"blue\",\"endeffect\":\"outro_explode\",\"menuSection\":\"2\"}}}"
+  },
+  {
+    "key": "autoanimations.CriticalAnimation",
+    "value": "\"\""
+  },
+  {
+    "key": "autoanimations.CriticalMissAnimation",
+    "value": "\"\""
+  },
+  {
+    "key": "betterrolls5e.migration",
+    "value": "{\"status\":true,\"version\":\"1.7.2\"}"
+  },
+  {
+    "key": "combat-carousel.overlayPermission",
+    "value": "\"all\""
+  },
+  {
+    "key": "combat-enhancements.removeTargets",
+    "value": "true"
+  },
+  {
+    "key": "combat-enhancements.showHpForType",
+    "value": "\"character\""
+  },
+  {
+    "key": "combatready.disablenextup",
+    "value": "true"
+  },
+  {
+    "key": "combatready.disablenextuponlastturn",
+    "value": "true"
+  },
+  {
+    "key": "combatready.disabletimer",
+    "value": "true"
+  },
+  {
+    "key": "combatready.endturndialog",
+    "value": "true"
+  },
+  {
+    "key": "combatready.masteroftime",
+    "value": "\"r6riyzYzKD44ActQ\""
+  },
+  {
+    "key": "compendium-folders.cfolders",
+    "value": "{\"hidden\":{\"compendiumList\":[],\"titleText\":\"hidden-compendiums\",\"_id\":\"hidden\",\"compendiums\":[],\"expanded\":false},\"default\":{\"compendiumList\":[],\"titleText\":\"Default\",\"_id\":\"default\",\"colorText\":\"#000000\",\"compendiums\":[],\"expanded\":false},\"cfolder-wzbiqppqha\":{\"_id\":\"cfolder-wzbiqppqha\",\"titleText\":\"Actor\",\"compendiumList\":[\"dnd5e.heroes\",\"dnd5e.monsters\",\"JB2A_DnD5e.jb2a-actors\",\"forge-vtt-shared-compendiums-aitd.actors\",\"forge-vtt-shared-compendiums-aitd.monsters\",\"forge-vtt-shared-compendiums-dnd-beyond-1.actors\",\"forge-vtt-shared-compendiums-dnd-beyond-1.monsters\",\"world.ddb-abqitd-monsters\"],\"colorText\":\"#000000\",\"fontColorText\":\"#FFFFFF\",\"compendiums\":[{\"code\":\"dnd5e.heroes\",\"folder\":\"cfolder-wzbiqppqha\"},{\"code\":\"dnd5e.monsters\",\"folder\":\"cfolder-wzbiqppqha\"},{\"code\":\"JB2A_DnD5e.jb2a-actors\",\"folder\":\"cfolder-wzbiqppqha\"},{\"code\":\"world.ddb-abqitd-monsters\",\"folder\":\"cfolder-wzbiqppqha\"}],\"expanded\":false},\"cfolder-7rsv7wmlnv\":{\"_id\":\"cfolder-7rsv7wmlnv\",\"titleText\":\"Item\",\"compendiumList\":[\"dnd5e.items\",\"dnd5e.tradegoods\",\"dnd5e.spells\",\"dnd5e.classes\",\"dnd5e.classfeatures\",\"dnd5e.races\",\"dnd5e.monsterfeatures\",\"Dynamic-Effects-SRD.DAE SRD Items\",\"Dynamic-Effects-SRD.DAE SRD Feats\",\"Dynamic-Effects-SRD.DAE SRD Magic Items\",\"dae.premadeitems\",\"forge-vtt-shared-compendiums-aitd.spells\",\"forge-vtt-shared-compendiums-aitd.items\",\"forge-vtt-shared-compendiums-aitd.classfeatures\",\"forge-vtt-shared-compendiums-aitd.monsterfeatures\",\"forge-vtt-shared-compendiums-dnd-beyond-1.spells\",\"forge-vtt-shared-compendiums-dnd-beyond-1.items\",\"forge-vtt-shared-compendiums-dnd-beyond-1.classfeatures\",\"forge-vtt-shared-compendiums-dnd-beyond-1.monsterfeatures\",\"world.ddb-abqitd-spells\",\"world.ddb-abqitd-items\",\"world.ddb-abqitd-class-features\",\"world.ddb-abqitd-classes\",\"world.ddb-abqitd-racial-traits\",\"world.ddb-abqitd-feats\",\"world.ddb-abqitd-races\",\"world.ddb-abqitd-override\"],\"colorText\":\"#000000\",\"fontColorText\":\"#FFFFFF\",\"compendiums\":[{\"code\":\"dnd5e.items\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"dnd5e.tradegoods\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"dnd5e.spells\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"dnd5e.classes\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"dnd5e.classfeatures\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"dnd5e.races\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"dnd5e.monsterfeatures\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"Dynamic-Effects-SRD.DAE SRD Items\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"Dynamic-Effects-SRD.DAE SRD Feats\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"Dynamic-Effects-SRD.DAE SRD Magic Items\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"dae.premadeitems\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"world.ddb-abqitd-spells\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"world.ddb-abqitd-items\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"world.ddb-abqitd-class-features\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"world.ddb-abqitd-classes\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"world.ddb-abqitd-racial-traits\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"world.ddb-abqitd-feats\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"world.ddb-abqitd-races\",\"folder\":\"cfolder-7rsv7wmlnv\"},{\"code\":\"world.ddb-abqitd-override\",\"folder\":\"cfolder-7rsv7wmlnv\"}],\"expanded\":false},\"cfolder-vol62s0i2w\":{\"_id\":\"cfolder-vol62s0i2w\",\"titleText\":\"JournalEntry\",\"compendiumList\":[\"dnd5e.rules\",\"combat-utility-belt.conditionsdnd5e\",\"forge-vtt-shared-compendiums-aitd.journals\",\"forge-vtt-shared-compendiums-dnd-beyond-1.journals\"],\"colorText\":\"#000000\",\"fontColorText\":\"#FFFFFF\",\"compendiums\":[{\"code\":\"dnd5e.rules\",\"folder\":\"cfolder-vol62s0i2w\"}],\"expanded\":false},\"cfolder-1s81nbyvi0\":{\"_id\":\"cfolder-1s81nbyvi0\",\"titleText\":\"Macro\",\"compendiumList\":[\"JB2A_DnD5e.jb2a-macros\",\"advanced-macros.macros\",\"dae.sample-macros\",\"forge-vtt-shared-compendiums-aitd.macros\",\"forge-vtt-shared-compendiums-dnd-beyond-1.macros\",\"foundry_community_macros.community-macros-5e\",\"foundry_community_macros.community-macros-age\",\"foundry_community_macros.community-macros-pf1e\",\"foundry_community_macros.community-macros-pf2e\",\"foundry_community_macros.community-macros-misc\",\"foundry_community_macros.community-macros-module-specific\",\"foundry_community_macros.community-macros-roll\",\"foundry_community_macros.community-macros-token\",\"foundry_community_macros.community-macros-wfrp4e\",\"fxmaster.fxmaster\",\"healthEstimate.deathmacro\"],\"colorText\":\"#000000\",\"fontColorText\":\"#FFFFFF\",\"compendiums\":[{\"code\":\"advanced-macros.macros\",\"folder\":\"cfolder-1s81nbyvi0\"},{\"code\":\"foundry_community_macros.community-macros-5e\",\"folder\":\"cfolder-1s81nbyvi0\"},{\"code\":\"foundry_community_macros.community-macros-age\",\"folder\":\"cfolder-1s81nbyvi0\"},{\"code\":\"foundry_community_macros.community-macros-pf1e\",\"folder\":\"cfolder-1s81nbyvi0\"},{\"code\":\"foundry_community_macros.community-macros-pf2e\",\"folder\":\"cfolder-1s81nbyvi0\"},{\"code\":\"foundry_community_macros.community-macros-misc\",\"folder\":\"cfolder-1s81nbyvi0\"},{\"code\":\"foundry_community_macros.community-macros-module-specific\",\"folder\":\"cfolder-1s81nbyvi0\"},{\"code\":\"foundry_community_macros.community-macros-roll\",\"folder\":\"cfolder-1s81nbyvi0\"},{\"code\":\"foundry_community_macros.community-macros-token\",\"folder\":\"cfolder-1s81nbyvi0\"},{\"code\":\"foundry_community_macros.community-macros-wfrp4e\",\"folder\":\"cfolder-1s81nbyvi0\"},{\"code\":\"fxmaster.fxmaster\",\"folder\":\"cfolder-1s81nbyvi0\"},{\"code\":\"healthEstimate.deathmacro\",\"folder\":\"cfolder-1s81nbyvi0\"}],\"expanded\":false},\"cfolder-ue3zqgrek8\":{\"_id\":\"cfolder-ue3zqgrek8\",\"titleText\":\"Scene\",\"compendiumList\":[\"forge-vtt-shared-compendiums-aitd.scenes\",\"forge-vtt-shared-compendiums-dnd-beyond-1.scenes\"],\"colorText\":\"#000000\",\"fontColorText\":\"#FFFFFF\",\"compendiums\":[],\"expanded\":false},\"cfolder-qgb6wgioeo\":{\"_id\":\"cfolder-qgb6wgioeo\",\"titleText\":\"RollTable\",\"compendiumList\":[\"forge-vtt-shared-compendiums-aitd.tables\",\"forge-vtt-shared-compendiums-dnd-beyond-1.tables\",\"world.ddb-abqitd-tables\"],\"colorText\":\"#000000\",\"fontColorText\":\"#FFFFFF\",\"compendiums\":[{\"code\":\"world.ddb-abqitd-tables\",\"folder\":\"cfolder-qgb6wgioeo\"}],\"expanded\":false},\"cfolder-e8famkifmf\":{\"_id\":\"cfolder-e8famkifmf\",\"titleText\":\"Playlist\",\"compendiumList\":[\"forge-vtt-shared-compendiums-aitd.playlists\",\"forge-vtt-shared-compendiums-dnd-beyond-1.playlists\"],\"colorText\":\"#000000\",\"fontColorText\":\"#FFFFFF\",\"compendiums\":[],\"expanded\":false}}"
+  },
+  {
+    "key": "compendium-folders.default-mbn",
+    "value": "true"
+  },
+  {
+    "key": "core.animateRollTable",
+    "value": "false"
+  },
+  {
+    "key": "core.combatTrackerConfig",
+    "value": "{\"resource\":\"\",\"skipDefeated\":true}"
+  },
+  {
+    "key": "core.compendiumConfiguration",
+    "value": "{\"world.ddb-abqitd-spells\":{\"private\":false,\"locked\":false},\"world.ddb-abqitd-items\":{\"private\":false,\"locked\":false},\"world.ddb-abqitd-class-features\":{\"private\":false,\"locked\":false},\"world.ddb-abqitd-classes\":{\"private\":false,\"locked\":false},\"world.ddb-abqitd-racial-traits\":{\"private\":false,\"locked\":false},\"world.ddb-abqitd-feats\":{\"private\":false,\"locked\":false},\"world.ddb-abqitd-races\":{\"private\":false,\"locked\":false},\"world.ddb-abqitd-monsters\":{\"private\":false,\"locked\":false},\"world.ddb-abqitd-override\":{\"private\":false,\"locked\":false},\"world.ddb-abqitd-tables\":{\"private\":false,\"locked\":false}}"
+  },
+  {
+    "key": "core.defaultToken",
+    "value": "{\"displayName\":30,\"flags\":{\"perfect-vision\":{\"visionRules\":\"default\",\"monoVisionColor\":\"\",\"sightLimit\":null,\"light\":{}},\"core\":{\"priority\":null}}}"
+  },
+  {
+    "key": "core.leftClickRelease",
+    "value": "true"
+  },
+  {
+    "key": "core.moduleConfiguration",
+    "value": "{\"advanced-macros\":true,\"autoanimations\":true,\"betterrolls5e\":true,\"beyond20\":true,\"combat-enhancements\":true,\"combat-utility-belt\":false,\"compendium-folders\":true,\"dae\":true,\"ddb-importer\":true,\"dfreds-droppables\":true,\"dice-calculator\":true,\"enhancedcombathud\":true,\"foundry_community_macros\":true,\"fxmaster\":true,\"healthEstimate\":true,\"initiative-double-click\":true,\"lessfog\":false,\"lib-changelogs\":true,\"lib-wrapper\":true,\"lmrtfy\":true,\"midi-qol\":true,\"mob-attack-tool\":true,\"moulinette-core\":true,\"moulinette-gameicons\":true,\"moulinette-imagesearch\":true,\"moulinette-tiles\":true,\"navigation-presets\":true,\"perfect-vision\":true,\"pings\":true,\"sequencer\":true,\"settings-extender\":true,\"socketlib\":true,\"splatter\":true,\"token-action-hud\":true,\"tokenmagic\":true,\"trigger-happy\":true,\"bug-reporter\":false,\"forge-vtt-shared-compendiums-aitd\":false,\"betterrolls-swade2\":false,\"Border-Control\":false,\"character-actions-list-5e\":false,\"combat-carousel\":true,\"combat-effects-tracker\":false,\"combatready\":true,\"CommunityLighting\":false,\"compact-beyond-5e-sheet\":false,\"custom-journal\":false,\"forge-vtt-shared-compendiums-ddbimport\":false,\"deselection\":false,\"dice-so-nice\":false,\"dice-tooltip\":false,\"forge-vtt-shared-compendiums-dnd-beyond-1\":false,\"dnd-ui\":false,\"dndbeyond-character-sheet\":true,\"dndbeyond-npc-sheet\":true,\"dww-battlemaps\":false,\"dragupload\":false,\"Dynamic-Effects-SRD\":true,\"forien-quest-log\":false,\"gm-notes\":false,\"hey-wait\":false,\"vtta-iconizer\":false,\"item-icon-updater\":false,\"animated-spell-effects\":false,\"animated-tokens\":false,\"JB2A_DnD5e\":true,\"LetterTokens\":false,\"colorsettings\":true,\"_document-sheet-registrar\":false,\"miskasmaps\":false,\"mikwewa-free\":false,\"moulinette-scenes\":true,\"moulinette-sounds\":true,\"mytab\":false,\"forge-vtt-shared-compendiums-new\":false,\"obsidian\":false,\"party-overview\":false,\"popout\":true,\"scene-transitions\":false,\"searchanywhere\":true,\"selectiveshow\":true,\"spellarena\":false,\"split-journal\":false,\"swade-toolkit\":false,\"swade-tools\":false,\"tabletopaudio\":false,\"tacticalmap-free\":false,\"forge-vtt-optional\":true,\"furnace\":false,\"mad-caverns-free\":false,\"mad-cartographer-free-maps\":false,\"token-mold\":true,\"vtta-tokenizer\":true,\"turnmarker\":false,\"dd-import\":false,\"vtta-dndbeyond\":false,\"vtta-didyouknow\":false,\"vtta-party\":false,\"vtta-core\":false,\"vtta-ddb\":false,\"vtta-tokens\":false,\"warpgate\":false,\"world-anvil\":false,\"mcc\":true,\"tagger\":false,\"group-initiative\":true,\"ATL\":true,\"ActiveAuras\":true,\"dfreds-convenient-effects\":true,\"itemacro\":true,\"lootsheetnpc5e\":false,\"times-up\":true,\"token-attacher\":false,\"about-time\":false,\"drag-ruler\":false,\"forien-copy-environment\":true,\"magicitems\":false,\"minimal-ui\":true,\"multilevel-tokens\":false,\"polyglot\":false,\"foundryvtt-simple-calendar\":false,\"tabletop-rpg-music\":false,\"tidy-ui_game-settings\":false,\"tidy5e-sheet\":false,\"torch\":false,\"wall-height\":false}"
+  },
+  {
+    "key": "core.performanceMode",
+    "value": "2"
+  },
+  {
+    "key": "core.permissions",
+    "value": "{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"TOKEN_CONFIGURE\":[1,2,3,4],\"JOURNAL_CREATE\":[2,3,4],\"NOTE_CREATE\":[2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"ACTOR_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"TOKEN_CREATE\":[1,2,3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"WALL_DOORS\":[1,2,3,4],\"FILES_UPLOAD\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"FILES_BROWSE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4]}"
+  },
+  {
+    "key": "core.sheetClasses",
+    "value": "{\"Actor\":{\"npc\":\"dnd5e.DNDBeyondNPCSheet\",\"character\":\"dnd5e.DNDBeyondCharacterSheet5e\"}}"
+  },
+  {
+    "key": "core.time",
+    "value": "420"
+  },
+  {
+    "key": "dae.ArmorDisabled",
+    "value": "1"
+  },
+  {
+    "key": "dae.DAETitleBar",
+    "value": "false"
+  },
+  {
+    "key": "ddb-importer.beta-key",
+    "value": "\"${DDB_IMPORTER_BETA_KEY}\""
+  },
+  {
+    "key": "ddb-importer.campaign-id",
+    "value": "\"${DDB_IMPORTER_CAMPAIGN_ID}\""
+  },
+  {
+    "key": "ddb-importer.dynamic-sync-user",
+    "value": "\"${DDB_IMPORTER_DYNAMIC_SYNC_USER}\""
+  },
+  {
+    "key": "ddb-importer.entity-background-compendium",
+    "value": "\"world.ddb-abqitd-backgrounds\""
+  },
+  {
+    "key": "ddb-importer.entity-class-compendium",
+    "value": "\"world.ddb-abqitd-classes\""
+  },
+  {
+    "key": "ddb-importer.entity-feat-compendium",
+    "value": "\"world.ddb-abqitd-feats\""
+  },
+  {
+    "key": "ddb-importer.entity-feature-compendium",
+    "value": "\"world.ddb-abqitd-class-features\""
+  },
+  {
+    "key": "ddb-importer.entity-item-compendium",
+    "value": "\"world.ddb-abqitd-items\""
+  },
+  {
+    "key": "ddb-importer.entity-monster-compendium",
+    "value": "\"world.ddb-abqitd-monsters\""
+  },
+  {
+    "key": "ddb-importer.entity-override-compendium",
+    "value": "\"world.ddb-abqitd-override\""
+  },
+  {
+    "key": "ddb-importer.entity-race-compendium",
+    "value": "\"world.ddb-abqitd-races\""
+  },
+  {
+    "key": "ddb-importer.entity-spell-compendium",
+    "value": "\"world.ddb-abqitd-spells\""
+  },
+  {
+    "key": "ddb-importer.entity-subclass-compendium",
+    "value": "\"world.ddb-abqitd-subclasses\""
+  },
+  {
+    "key": "ddb-importer.entity-table-compendium",
+    "value": "\"world.ddb-abqitd-tables\""
+  },
+  {
+    "key": "ddb-importer.entity-trait-compendium",
+    "value": "\"world.ddb-abqitd-racial-traits\""
+  },
+  {
+    "key": "ddb-importer.entity-vehicle-compendium",
+    "value": "\"world.ddb-abqitd-vehicles\""
+  },
+  {
+    "key": "ddb-importer.log-level",
+    "value": "\"WARN\""
+  },
+  {
+    "key": "ddb-importer.munching-policy-legacy-postfix",
+    "value": "true"
+  },
+  {
+    "key": "ddb-importer.munching-policy-monster-retain-biography",
+    "value": "true"
+  },
+  {
+    "key": "ddb-importer.munching-policy-update-world-monster-retain-biography",
+    "value": "false"
+  },
+  {
+    "key": "ddb-importer.munching-policy-update-world-monster-update-images",
+    "value": "false"
+  },
+  {
+    "key": "ddb-importer.patreon-tier",
+    "value": "\"COFFEE\""
+  },
+  {
+    "key": "ddb-importer.patreon-user",
+    "value": "\"${DDB_IMPORTER_PATRON_USER}\""
+  },
+  {
+    "key": "ddb-importer.use-webp",
+    "value": "true"
+  },
+  {
+    "key": "dfreds-convenient-effects.chatMessagePermission",
+    "value": "\"4\""
+  },
+  {
+    "key": "dfreds-convenient-effects.controlsPermission",
+    "value": "\"4\""
+  },
+  {
+    "key": "dfreds-convenient-effects.expandedFolders",
+    "value": "[\"Favorites\"]"
+  },
+  {
+    "key": "dfreds-convenient-effects.favoriteEffectNames",
+    "value": "[\"\"]"
+  },
+  {
+    "key": "dfreds-convenient-effects.modifyStatusEffects",
+    "value": "\"add\""
+  },
+  {
+    "key": "dfreds-convenient-effects.removeControlsPermission",
+    "value": "\"4\""
+  },
+  {
+    "key": "dfreds-droppables.lastUsedDropStyle",
+    "value": "\"\""
+  },
+  {
+    "key": "dnd5e.allowPolymorphing",
+    "value": "true"
+  },
+  {
+    "key": "dnd5e.currencyWeight",
+    "value": "false"
+  },
+  {
+    "key": "dnd5e.disableExperienceTracking",
+    "value": "true"
+  },
+  {
+    "key": "dnd5e.initiativeDexTiebreaker",
+    "value": "true"
+  },
+  {
+    "key": "dnd5e.systemMigrationVersion",
+    "value": "\"1.6.0\""
+  },
+  {
+    "key": "enhancedcombathud.openCombatStart",
+    "value": "true"
+  },
+  {
+    "key": "enhancedcombathud.showWeaponsItems",
+    "value": "true"
+  },
+  {
+    "key": "forge-vtt.apiKey",
+    "value": "\"${FORGE_VTT_API_KEY}\""
+  },
+  {
+    "key": "forge-vtt.lastBrowsedDirectory",
+    "value": "\"https://assets.forge-vtt.com/5f94b5faa21f88dd1ab5e083/avatars/npc/beast/\""
+  },
+  {
+    "key": "fxmaster.clientMigration",
+    "value": "1"
+  },
+  {
+    "key": "fxmaster.migration",
+    "value": "2"
+  },
+  {
+    "key": "group-initiative.rollGroupInitiative",
+    "value": "true"
+  },
+  {
+    "key": "healthEstimate.core.deathState",
+    "value": "true"
+  },
+  {
+    "key": "initiative-double-click.disableOpenSheet",
+    "value": "1"
+  },
+  {
+    "key": "initiative-double-click.player-access",
+    "value": "\"2\""
+  },
+  {
+    "key": "JB2A_DnD5e.runonlyonce",
+    "value": "true"
+  },
+  {
+    "key": "lib-changelogs.changelogs",
+    "value": "{\"midi-qol\":\"0.9.56\"}"
+  },
+  {
+    "key": "midi-qol.AddChatDamageButtons",
+    "value": "\"gm\""
+  },
+  {
+    "key": "midi-qol.ColoredBorders",
+    "value": "\"none\""
+  },
+  {
+    "key": "midi-qol.ConfigSettings",
+    "value": "{\"addDead\":\"none\",\"addWounded\":0,\"allowUseMacro\":true,\"autoApplyDamage\":\"none\",\"autoCEEffects\":\"itempri\",\"autoCheckHit\":\"whisper\",\"autoCheckSaves\":\"none\",\"autoFastForward\":\"off\",\"autoRollAttack\":false,\"autoRollDamage\":\"none\",\"autoTarget\":\"always\",\"checkSaveText\":false,\"concentrationAutomation\":false,\"consumeResource\":\"none\",\"convenientEffectsReaction\":\"Reaction\",\"criticalSound\":\"sounds/dice.wav\",\"customSoundsPlaylist\":\"none\",\"damageImmunities\":\"none\",\"defaultSaveMult\":0.5,\"diceSound\":\"sounds/dice.wav\",\"displayHitResultNumeric\":true,\"displaySaveAdvantage\":true,\"displaySaveDC\":true,\"doReactions\":\"all\",\"effectActivation\":false,\"enableddbGL\":false,\"enforceReactions\":\"none\",\"enforceBonusActions\":\"none\",\"fixStickyKeys\":true,\"fumbleSound\":\"sounds/dice.wav\",\"ghostRolls\":false,\"gmAutoAttack\":false,\"gmAutoDamage\":\"none\",\"gmAutoFastForwardAttack\":false,\"gmAutoFastForwardDamage\":false,\"gmConsumeResource\":\"none\",\"gmDoReactions\":\"all\",\"gmHide3dDice\":false,\"gmLateTargeting\":false,\"gmRemoveButtons\":\"all\",\"hideRollDetails\":\"none\",\"itemRollStartWorkflow\":false,\"itemTypeList\":[\"weapon\",\"equipment\",\"consumable\",\"tool\",\"loot\",\"class\",\"spell\",\"feat\",\"backpack\"],\"itemUseSound\":\"\",\"keepRollStats\":true,\"keyMapping\":{\"DND5E.Advantage\":\"altKey\",\"DND5E.Disadvantage\":\"ctrlKey\",\"DND5E.Critical\":\"altKey\",\"DND5E.Versatile\":\"shiftKey\"},\"mergeCard\":true,\"mergeCardCondensed\":false,\"optionalRulesEnabled\":false,\"playerRollSaves\":\"none\",\"playerSaveTimeout\":0,\"playerStatsOnly\":false,\"potionUseSound\":\"\",\"promptDamageRoll\":false,\"quickSettings\":true,\"rangeTarget\":\"alwaysIgnoreDefeated\",\"reactionTimeout\":10,\"recordAOO\":\"none\",\"removeButtons\":\"all\",\"removeConcentration\":true,\"requireMagical\":\"off\",\"requiresTargets\":\"none\",\"rollNPCLinkedSaves\":\"auto\",\"rollNPCSaves\":\"auto\",\"rollOtherDamage\":\"none\",\"rollOtherSpellDamage\":\"none\",\"saveStatsEvery\":20,\"showItemDetails\":\"none\",\"showReactionAttackRoll\":\"all\",\"showReactionChatMessage\":false,\"singleConcentrationRoll\":true,\"spellHitSound\":\"\",\"spellUseSound\":\"\",\"spellUseSoundRanged\":\"\",\"toggleOptionalRules\":false,\"useCustomSounds\":true,\"usePlayerPortrait\":false,\"useTokenNames\":false,\"weaponHitSound\":\"\",\"weaponUseSound\":\"\",\"weaponUseSoundRanged\":\"\",\"rollAlternate\":\"off\",\"optionalRules\":{\"invisAdvantage\":true,\"checkRange\":true,\"wallsBlockRange\":\"center\",\"nearbyFoe\":5,\"nearbyAllyRanged\":0,\"incapacitated\":true,\"removeHiddenInvis\":true,\"maxDRValue\":false,\"distanceIncludesHeight\":false,\"criticalSaves\":false,\"activeDefence\":false,\"challengeModeArmor\":false,\"challengeModeArmorScale\":false,\"checkFlanking\":\"off\",\"optionalCritRule\":-1,\"actionSpecialDurationImmediate\":false,\"challengModeArmor\":false,\"enableddbGL\":false},\"autoItemEffects\":\"applyRemove\",\"playerDamageCard\":\"none\",\"playerCardDamageDifferent\":true,\"allowActorUseMacro\":true,\"paranoidGM\":false,\"tempHPDamageConcentrationCheck\":false,\"ignoreSpellReactionRestriction\":false,\"damageResistanceMultiplier\":0.5,\"damageVulnerabilityMultiplier\":2,\"hidePlayerDamageCard\":true}"
+  },
+  {
+    "key": "midi-qol.CriticalDamage",
+    "value": "\"default\""
+  },
+  {
+    "key": "midi-qol.Debug",
+    "value": "\"none\""
+  },
+  {
+    "key": "midi-qol.notificationVersion",
+    "value": "\"0.8.78\""
+  },
+  {
+    "key": "midi-qol.RollStats",
+    "value": "{\"ArASUJhj18kilaBr\":{\"session\":{\"numAttacks\":21,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":405,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0},\"lifetime\":{\"numAttacks\":21,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":405,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0},\"itemStats\":{\"Candle\":{\"name\":\"Candle\",\"session\":{\"numAttacks\":21,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":405,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0}}},\"name\":\"Quill\"},\"HoFC9kKCMqXvzOkz\":{\"session\":{\"numAttacks\":21,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":405,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0},\"lifetime\":{\"numAttacks\":21,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":405,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0},\"itemStats\":{\"Candle\":{\"name\":\"Candle\",\"session\":{\"numAttacks\":21,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":405,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0}}},\"name\":\"Steele\"},\"xNw0qApFCwkPMfMc\":{\"session\":{\"numAttacks\":1,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":26,\"numD20Rolls\":0,\"numDamageRolls\":1,\"damageApplied\":11,\"damageTotal\":11},\"lifetime\":{\"numAttacks\":1,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":26,\"numD20Rolls\":0,\"numDamageRolls\":1,\"damageApplied\":11,\"damageTotal\":11},\"itemStats\":{\"Spiritual Weapon attack\":{\"name\":\"Spiritual Weapon attack\",\"session\":{\"numAttacks\":1,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":26,\"numD20Rolls\":0,\"numDamageRolls\":1,\"damageApplied\":11,\"damageTotal\":11}}},\"name\":\"Spiritual Weapon - Maul - Flaming - Yellow\"},\"r6riyzYzKD44ActQ\":{\"session\":{\"numAttacks\":8,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":1,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":127,\"numD20Rolls\":0,\"numDamageRolls\":1,\"damageApplied\":11,\"damageTotal\":11},\"lifetime\":{\"numAttacks\":8,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":1,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":127,\"numD20Rolls\":0,\"numDamageRolls\":1,\"damageApplied\":11,\"damageTotal\":11},\"itemStats\":{\"Spiritual Weapon attack\":{\"name\":\"Spiritual Weapon attack\",\"session\":{\"numAttacks\":2,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":42,\"numD20Rolls\":0,\"numDamageRolls\":1,\"damageApplied\":11,\"damageTotal\":11}},\"Tail\":{\"name\":\"Tail\",\"session\":{\"numAttacks\":1,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":9,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0}},\"Claw\":{\"name\":\"Claw\",\"session\":{\"numAttacks\":2,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":24,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0}},\"Sting (Bite in Beast Form)\":{\"name\":\"Sting (Bite in Beast Form)\",\"session\":{\"numAttacks\":3,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":1,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":52,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0}}},\"name\":\"Gamemaster\"},\"4AiwLyAjBxIWe6Yt\":{\"session\":{\"numAttacks\":3,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":33,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0},\"lifetime\":{\"numAttacks\":3,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":33,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0},\"itemStats\":{\"Tail\":{\"name\":\"Tail\",\"session\":{\"numAttacks\":1,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":9,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0}},\"Claw\":{\"name\":\"Claw\",\"session\":{\"numAttacks\":2,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":24,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0}}},\"name\":\"Barbed Devil\"},\"zbBBJpHtZ1YA3HAR\":{\"session\":{\"numAttacks\":10,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":167,\"numD20Rolls\":0,\"numDamageRolls\":5,\"damageApplied\":47,\"damageTotal\":47},\"lifetime\":{\"numAttacks\":10,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":167,\"numD20Rolls\":0,\"numDamageRolls\":5,\"damageApplied\":47,\"damageTotal\":47},\"itemStats\":{\"Eldritch Blast\":{\"name\":\"Eldritch Blast\",\"session\":{\"numAttacks\":10,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":167,\"numD20Rolls\":0,\"numDamageRolls\":5,\"damageApplied\":47,\"damageTotal\":47}}},\"name\":\"Lydia Deetz\"},\"xmsCcSSsVC8XdCJr\":{\"session\":{\"numAttacks\":10,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":167,\"numD20Rolls\":0,\"numDamageRolls\":5,\"damageApplied\":47,\"damageTotal\":47},\"lifetime\":{\"numAttacks\":10,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":167,\"numD20Rolls\":0,\"numDamageRolls\":5,\"damageApplied\":47,\"damageTotal\":47},\"itemStats\":{\"Eldritch Blast\":{\"name\":\"Eldritch Blast\",\"session\":{\"numAttacks\":10,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":167,\"numD20Rolls\":0,\"numDamageRolls\":5,\"damageApplied\":47,\"damageTotal\":47}}},\"name\":\"Maria\"},\"NE8bY9ZWqo1qBaYn\":{\"session\":{\"numAttacks\":3,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":1,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":52,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0},\"lifetime\":{\"numAttacks\":3,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":1,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":52,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0},\"itemStats\":{\"Sting (Bite in Beast Form)\":{\"name\":\"Sting (Bite in Beast Form)\",\"session\":{\"numAttacks\":3,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":1,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":52,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0}}},\"name\":\"Imp\"},\"QylUE32Hp6kkYAag\":{\"session\":{\"numAttacks\":1,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":14,\"numD20Rolls\":0,\"numDamageRolls\":1,\"damageApplied\":16,\"damageTotal\":16},\"lifetime\":{\"numAttacks\":1,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":14,\"numD20Rolls\":0,\"numDamageRolls\":1,\"damageApplied\":16,\"damageTotal\":16},\"itemStats\":{\"Fire Bolt\":{\"name\":\"Fire Bolt\",\"session\":{\"numAttacks\":1,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":14,\"numD20Rolls\":0,\"numDamageRolls\":1,\"damageApplied\":16,\"damageTotal\":16}}},\"name\":\"Euler\"},\"kSvs3dZ0t0jz382C\":{\"session\":{\"numAttacks\":1,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":14,\"numD20Rolls\":0,\"numDamageRolls\":1,\"damageApplied\":16,\"damageTotal\":16},\"lifetime\":{\"numAttacks\":1,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":14,\"numD20Rolls\":0,\"numDamageRolls\":1,\"damageApplied\":16,\"damageTotal\":16},\"itemStats\":{\"Fire Bolt\":{\"name\":\"Fire Bolt\",\"session\":{\"numAttacks\":1,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":14,\"numD20Rolls\":0,\"numDamageRolls\":1,\"damageApplied\":16,\"damageTotal\":16}}},\"name\":\"Nord\"},\"LJ7Tw1gszqfXUX2Y\":{\"session\":{\"numAttacks\":1,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":16,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0},\"lifetime\":{\"numAttacks\":1,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":16,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0},\"itemStats\":{\"Spiritual Weapon attack\":{\"name\":\"Spiritual Weapon attack\",\"session\":{\"numAttacks\":1,\"numAttack20\":0,\"numAttackFumble\":0,\"numAttackCritical\":0,\"numAttackMisses\":0,\"attackRollsDiceTotal\":null,\"attackRollTotal\":16,\"numD20Rolls\":0,\"numDamageRolls\":0,\"damageApplied\":0,\"damageTotal\":0}}},\"name\":\"Spiritual Weapon - Mace - Flaming - Yellow\"}}"
+  },
+  {
+    "key": "mob-attack-tool.askRollType",
+    "value": "false"
+  },
+  {
+    "key": "mob-attack-tool.enableMobInitiative",
+    "value": "true"
+  },
+  {
+    "key": "mob-attack-tool.tempSetting",
+    "value": "[\"1\",\"5\",\"1\",6,\"12\",\"2\",13,\"14\",\"3\",15,\"16\",\"4\",17,\"18\",\"5\",19,\"19\",\"10\",20,\"20\",\"20\"]"
+  },
+  {
+    "key": "moulinette-core.browseMode",
+    "value": "\"byPack\""
+  },
+  {
+    "key": "moulinette-tiles.macroCompendium",
+    "value": "\"\""
+  },
+  {
+    "key": "moulinette.currentTab",
+    "value": "\"tiles\""
+  },
+  {
+    "key": "moulinette.sources",
+    "value": "\"\""
+  },
+  {
+    "key": "moulinette.tileActorId",
+    "value": "\"\""
+  },
+  {
+    "key": "moulinette.tileActorType",
+    "value": "\"\""
+  },
+  {
+    "key": "moulinette.winPosForge",
+    "value": "{\"width\":505,\"height\":901,\"left\":885,\"top\":199.5}"
+  },
+  {
+    "key": "navigation-presets.active-preset",
+    "value": "\"npreset_60bkb639f9s\""
+  },
+  {
+    "key": "navigation-presets.npresets",
+    "value": "{\"default\":{\"sceneList\":[\"HtOxEDiwKxKH8nOc\",\"6lvVkufcgWGpxZH5\",\"F4Ox43DpVKDCKErR\",\"L7T3yLcHbbfCd0s8\",\"0jAqNTQ0I4NaGlSo\",\"k7N3kcpiEOKai839\"],\"titleText\":\"Default\",\"_id\":\"default\",\"colorText\":\"#000000\",\"isActive\":true},\"npreset_pd8n8d2phvf\":{\"titleText\":\"Meanwhile far to the south\",\"colorText\":\"#000000\",\"sceneList\":[\"oXNYXtlLqaWPBfs1\",\"W4h9Y7vzCEVIsyfk\",\"1DZINaz9dvH88TRt\",\"KffK8wDW7lUsZt0R\",\"exBSn3JbAbkbs8ck\",\"DwLfHYFvYq9Eaq8W\",\"Mv6xKh6CcQeesMfr\",\"WDB7PDjxx9i7slwY\",\"EWZC8wDceyxWMY8U\",\"MpkA4dXxdxQDPRhc\",\"7li4X6tYd8xo8Ayd\",\"a27lylbp4RSY3qnE\",\"QrBPTEsqOtDXPoWz\",\"k1nS2IlHMBJkrdyQ\"],\"_id\":\"npreset_pd8n8d2phvf\",\"isActive\":false},\"npreset_py8600tx94h\":{\"titleText\":\"Lost Mines of Phandelver\",\"colorText\":\"#000000\",\"sceneList\":[\"WC2EPQM9zvg5lQvy\",\"7xE2DBShlCHbuIt6\",\"hv1dicWY2ClWBDYo\",\"2PPNXHnCWdHX5p6c\",\"qHyPH7DGhllXSgcg\",\"CUwuZBg1Vyo6P3B3\"],\"_id\":\"npreset_py8600tx94h\",\"isActive\":false},\"npreset_60bkb639f9s\":{\"titleText\":\"Chapter 1: A Tale of Two Cities\",\"colorText\":\"#000000\",\"sceneList\":[\"6kPA7dzxy25vARvm\",\"7IzQME6o8yXqI2pJ\",\"dNDkrBxECWNX2IVj\",\"NLzY7Z1j3rGzzgIn\",\"HMdOdYq1WlWgsNJp\",\"tRj2oeWvgdWqQ06i\",\"GjM3eO8Z3NPaiujk\",\"W9QRACy5lAd44Ry5\",\"IcZBJ6DxGUe5UWwB\",\"KEe5XBAWlT9yZWHP\",\"7FaRv9aNFb9tKj8D\",\"4hHJcvd2Ham1Lxoy\",\"9YX8PJniAB90dTKc\",\"7exDIupIvR4ajYK7\"],\"_id\":\"npreset_60bkb639f9s\",\"isActive\":false},\"npreset_vrmtg9upuml\":{\"titleText\":\"Chapter 2: Elturel Has Fallen\",\"colorText\":\"#000000\",\"sceneList\":[\"lq7bfLE3I9r54pGT\",\"47DUXSe4axKtJh2t\",\"dCFKoOBRV1bhy02B\",\"90z1B6C9ho3ZciVq\",\"Wp5aq4fPBMjECEG9\",\"uBNQCReeORbF0gE0\",\"avVdFFiyetVcFz1a\"],\"_id\":\"npreset_vrmtg9upuml\",\"isActive\":false},\"npreset_uhhbfn49nco\":{\"titleText\":\"Chapter 3: Avernus\",\"colorText\":\"#000000\",\"sceneList\":[\"68fitJtiB1ttWlh1\",\"MOM7HBXVdPFXeEGc\",\"AVfnkpPmA56PetPW\",\"lXOnkBJwrVn8Pt4Y\",\"30Wv8i1Fmv0o6ZbE\",\"Z4j3Fs5pK6yEHzLC\",\"cKmSLz1ZutWrkEHb\"],\"_id\":\"npreset_uhhbfn49nco\",\"isActive\":false},\"npreset_9bpnksozm0w\":{\"titleText\":\"Chapter 4: Sword of Zariel\",\"colorText\":\"#000000\",\"sceneList\":[\"PAn8pYTZGL9ksucy\",\"1mdzbqJuZNO8NBrQ\"],\"_id\":\"npreset_9bpnksozm0w\",\"isActive\":false}}"
+  },
+  {
+    "key": "perfect-vision.popup",
+    "value": "9"
+  },
+  {
+    "key": "pings.image",
+    "value": "null"
+  },
+  {
+    "key": "pings.key",
+    "value": "null"
+  },
+  {
+    "key": "pings.keyMove",
+    "value": "null"
+  },
+  {
+    "key": "pings.lastVersion",
+    "value": "\"1.2.2\""
+  },
+  {
+    "key": "splatter.bloodsplatterScale",
+    "value": "0.7"
+  },
+  {
+    "key": "splatter.enableBloodTrail",
+    "value": "true"
+  },
+  {
+    "key": "splatter.violence",
+    "value": "2"
+  },
+  {
+    "key": "times-up.Debug",
+    "value": "\"none\""
+  },
+  {
+    "key": "times-up.store",
+    "value": "{\"entries\":[{\"actorUuid\":\"Scene.tRj2oeWvgdWqQ06i.Token.S5ZpolCjoXmR79We\",\"effectData\":{\"_id\":\"6ghe8sie3vsep2s1\",\"changes\":[{\"key\":\"data.attributes.ac.calc\",\"mode\":5,\"value\":\"mage\",\"priority\":\"5\"}],\"disabled\":false,\"duration\":{\"startTime\":390,\"seconds\":28800,\"startRound\":4,\"startTurn\":15},\"icon\":\"systems/dnd5e/icons/spells/protect-blue-1.jpg\",\"label\":\"Mage Armor\",\"origin\":\"Scene.tRj2oeWvgdWqQ06i.Token.S5ZpolCjoXmR79We.Item.E5weUxd607VqUHe6\",\"tint\":null,\"transfer\":false,\"flags\":{\"dae\":{\"transfer\":false,\"stackable\":\"none\",\"itemData\":{\"_id\":\"E5weUxd607VqUHe6\",\"name\":\"Mage Armor (self only)\",\"type\":\"spell\",\"img\":\"systems/dnd5e/icons/spells/protect-blue-1.jpg\",\"data\":{\"description\":{\"value\":\"<p><b>Special Notes: self only.</b></p>\\n\\n<p>You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.</p>\",\"chat\":\"<p><b>Special Notes: self only.</b></p>\\n\\n\",\"unidentified\":\"\"},\"source\":\"Basic Rules, Player's Handbook pg 256\",\"activation\":{\"type\":\"action\",\"cost\":1,\"condition\":\"\"},\"duration\":{\"value\":8,\"units\":\"hour\"},\"target\":{\"value\":null,\"width\":null,\"units\":null,\"type\":\"self\"},\"range\":{\"value\":null,\"long\":null,\"units\":\"touch\"},\"uses\":{\"value\":null,\"max\":null,\"per\":null},\"consume\":{\"type\":\"\",\"target\":null,\"amount\":null},\"ability\":null,\"actionType\":\"util\",\"attackBonus\":0,\"chatFlavor\":\"\",\"critical\":{\"threshold\":null,\"damage\":\"\"},\"damage\":{\"parts\":[],\"versatile\":\"\"},\"formula\":\"\",\"save\":{\"ability\":\"\",\"dc\":null,\"scaling\":\"spell\"},\"level\":1,\"school\":\"abj\",\"components\":{\"value\":\"a piece of cured leather\",\"vocal\":true,\"somatic\":true,\"material\":false,\"ritual\":false,\"concentration\":false},\"materials\":{\"value\":\"\",\"consumed\":false,\"cost\":0,\"supply\":0},\"preparation\":{\"mode\":\"innate\",\"prepared\":true},\"scaling\":{\"mode\":\"none\",\"formula\":\"\"},\"prof\":{\"_baseProficiency\":3,\"multiplier\":1,\"rounding\":\"down\"}},\"effects\":[{\"_id\":\"oy9046qtygc4n4hc\",\"changes\":[{\"key\":\"data.attributes.ac.calc\",\"value\":\"mage\",\"mode\":5,\"priority\":\"5\"}],\"disabled\":false,\"duration\":{\"startTime\":null},\"icon\":\"systems/dnd5e/icons/spells/protect-blue-1.jpg\",\"label\":\"Mage Armor\",\"tint\":null,\"transfer\":false,\"flags\":{\"dae\":{\"transfer\":false,\"stackable\":\"none\"},\"ddbimporter\":{\"disabled\":false},\"midi-qol\":{\"forceCEOff\":true}}}],\"folder\":null,\"sort\":0,\"permission\":{\"default\":0,\"AyOgiIgWkJEbVBK0\":3},\"flags\":{\"ddbimporter\":{\"id\":138431,\"definitionId\":2172,\"entityTypeId\":435869154,\"dndbeyond\":{\"lookup\":\"generic\",\"lookupName\":\"generic\",\"level\":null,\"castAtLevel\":null},\"originalName\":\"Mage Armor\",\"sources\":[{\"sourceId\":1,\"pageNumber\":null,\"sourceType\":2},{\"sourceId\":2,\"pageNumber\":256,\"sourceType\":1}],\"tags\":[\"Buff\",\"Warding\"],\"version\":\"2.9.66\",\"effectsApplied\":true,\"parentId\":\"RkAHI076rmsKruwO\"},\"betterRolls5e\":{\"quickDesc\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickAttack\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickSave\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickDamage\":{\"type\":\"Array\",\"value\":[],\"altValue\":[],\"context\":[]},\"quickVersatile\":{\"type\":\"Boolean\",\"value\":false,\"altValue\":true},\"quickProperties\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickCharges\":{\"type\":\"Boolean\",\"value\":{\"use\":true,\"resource\":true},\"altValue\":{\"use\":true,\"resource\":true}},\"quickTemplate\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickOther\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true,\"context\":\"\"},\"quickFlavor\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickPrompt\":{\"type\":\"Boolean\",\"value\":false,\"altValue\":false}},\"midi-qol\":{\"onUseMacroParts\":{\"items\":[]}}}},\"token\":\"Scene.tRj2oeWvgdWqQ06i.Token.S5ZpolCjoXmR79We\"},\"ddbimporter\":{\"disabled\":false},\"midi-qol\":{\"forceCEOff\":true}}}},{\"actorUuid\":\"Scene.tRj2oeWvgdWqQ06i.Token.AY6lEFVvZNFVnLE9\",\"effectData\":{\"_id\":\"i131rb536vs4m611\",\"changes\":[{\"key\":\"data.attributes.ac.calc\",\"mode\":5,\"value\":\"mage\",\"priority\":\"5\"}],\"disabled\":false,\"duration\":{\"startTime\":390,\"seconds\":28800,\"startRound\":4,\"startTurn\":15},\"icon\":\"systems/dnd5e/icons/spells/protect-blue-1.jpg\",\"label\":\"Mage Armor\",\"origin\":\"Scene.tRj2oeWvgdWqQ06i.Token.AY6lEFVvZNFVnLE9.Item.4z4rmibtvxk036v2\",\"tint\":null,\"transfer\":false,\"flags\":{\"dae\":{\"transfer\":false,\"stackable\":\"none\",\"itemData\":{\"_id\":\"4z4rmibtvxk036v2\",\"name\":\"Mage Armor (self only)\",\"type\":\"spell\",\"img\":\"systems/dnd5e/icons/spells/protect-blue-1.jpg\",\"data\":{\"description\":{\"value\":\"<p><b>Special Notes: self only.</b></p>\\n\\n<p>You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.</p>\",\"chat\":\"<p><b>Special Notes: self only.</b></p>\\n\\n\",\"unidentified\":\"\"},\"source\":\"Basic Rules, Player's Handbook pg 256\",\"activation\":{\"type\":\"action\",\"cost\":1,\"condition\":\"\"},\"duration\":{\"value\":8,\"units\":\"hour\"},\"target\":{\"value\":null,\"width\":null,\"units\":null,\"type\":\"self\"},\"range\":{\"value\":null,\"long\":null,\"units\":\"touch\"},\"uses\":{\"value\":null,\"max\":null,\"per\":null},\"consume\":{\"type\":\"\",\"target\":null,\"amount\":null},\"ability\":null,\"actionType\":\"util\",\"attackBonus\":0,\"chatFlavor\":\"\",\"critical\":{\"threshold\":null,\"damage\":\"\"},\"damage\":{\"parts\":[],\"versatile\":\"\"},\"formula\":\"\",\"save\":{\"ability\":\"\",\"dc\":null,\"scaling\":\"spell\"},\"level\":1,\"school\":\"abj\",\"components\":{\"value\":\"a piece of cured leather\",\"vocal\":true,\"somatic\":true,\"material\":false,\"ritual\":false,\"concentration\":false},\"materials\":{\"value\":\"\",\"consumed\":false,\"cost\":0,\"supply\":0},\"preparation\":{\"mode\":\"innate\",\"prepared\":true},\"scaling\":{\"mode\":\"none\",\"formula\":\"\"},\"attunement\":null,\"prof\":{\"_baseProficiency\":2,\"multiplier\":1,\"rounding\":\"down\"}},\"effects\":[{\"_id\":\"oy9046qtygc4n4hc\",\"changes\":[{\"key\":\"data.attributes.ac.calc\",\"value\":\"mage\",\"mode\":5,\"priority\":\"5\"}],\"disabled\":false,\"duration\":{\"startTime\":null},\"icon\":\"systems/dnd5e/icons/spells/protect-blue-1.jpg\",\"label\":\"Mage Armor\",\"tint\":null,\"transfer\":false,\"flags\":{\"dae\":{\"transfer\":false,\"stackable\":\"none\"},\"ddbimporter\":{\"disabled\":false},\"midi-qol\":{\"forceCEOff\":true}}}],\"folder\":null,\"sort\":0,\"permission\":{\"default\":0,\"AyOgiIgWkJEbVBK0\":3},\"flags\":{\"ddbimporter\":{\"id\":138431,\"definitionId\":2172,\"entityTypeId\":435869154,\"dndbeyond\":{\"lookup\":\"generic\",\"lookupName\":\"generic\",\"level\":null,\"castAtLevel\":null},\"originalName\":\"Mage Armor\",\"sources\":[{\"sourceId\":1,\"pageNumber\":null,\"sourceType\":2},{\"sourceId\":2,\"pageNumber\":256,\"sourceType\":1}],\"tags\":[\"Buff\",\"Warding\"],\"version\":\"2.9.66\",\"effectsApplied\":true,\"parentId\":\"RkAHI076rmsKruwO\"},\"betterRolls5e\":{\"quickDesc\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickAttack\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickSave\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickDamage\":{\"type\":\"Array\",\"value\":[],\"altValue\":[],\"context\":[]},\"quickVersatile\":{\"type\":\"Boolean\",\"value\":false,\"altValue\":true},\"quickProperties\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickCharges\":{\"type\":\"Boolean\",\"value\":{\"use\":true,\"resource\":true},\"altValue\":{\"use\":true,\"resource\":true}},\"quickTemplate\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickOther\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true,\"context\":\"\"},\"quickFlavor\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickPrompt\":{\"type\":\"Boolean\",\"value\":false,\"altValue\":false}},\"core\":{\"sourceId\":\"Item.E5weUxd607VqUHe6\"},\"midi-qol\":{\"onUseMacroParts\":{\"items\":[]}}}},\"token\":\"Scene.tRj2oeWvgdWqQ06i.Token.AY6lEFVvZNFVnLE9\"},\"ddbimporter\":{\"disabled\":false},\"midi-qol\":{\"forceCEOff\":true}}}},{\"actorUuid\":\"Scene.tRj2oeWvgdWqQ06i.Token.OZeT0A9NGOtIdPy0\",\"effectData\":{\"_id\":\"4g3up4cu6usz4i2y\",\"changes\":[{\"key\":\"data.attributes.ac.bonus\",\"mode\":2,\"value\":\"+2\",\"priority\":\"20\"},{\"key\":\"macro.tokenMagic\",\"mode\":0,\"value\":\"bloom\",\"priority\":20}],\"disabled\":false,\"duration\":{\"startTime\":402,\"seconds\":600,\"startRound\":1,\"startTurn\":5},\"icon\":\"systems/dnd5e/icons/spells/protect-sky-2.jpg\",\"label\":\"Shield of Faith\",\"origin\":\"Scene.tRj2oeWvgdWqQ06i.Token.OZeT0A9NGOtIdPy0.Item.8ZpKEnLbFWlkQxBD\",\"tint\":null,\"transfer\":false,\"flags\":{\"dae\":{\"transfer\":false,\"stackable\":\"none\",\"itemData\":{\"_id\":\"8ZpKEnLbFWlkQxBD\",\"name\":\"Shield of Faith\",\"type\":\"spell\",\"img\":\"systems/dnd5e/icons/items/armor/shield.png\",\"data\":{\"description\":{\"value\":\"<p>A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.</p>\",\"chat\":\"\",\"unidentified\":\"\"},\"source\":\"Basic Rules, Player's Handbook pg 275\",\"activation\":{\"type\":\"bonus\",\"cost\":1,\"condition\":\"\"},\"duration\":{\"value\":10,\"units\":\"minute\"},\"target\":{\"value\":1,\"width\":null,\"units\":null,\"type\":\"creature\"},\"range\":{\"value\":60,\"long\":null,\"units\":\"ft\"},\"consume\":{\"type\":\"\",\"target\":null,\"amount\":null},\"ability\":null,\"actionType\":\"util\",\"attackBonus\":0,\"chatFlavor\":\"\",\"critical\":{\"threshold\":null,\"damage\":\"\"},\"damage\":{\"parts\":[],\"versatile\":\"\"},\"formula\":\"\",\"save\":{\"ability\":\"\",\"dc\":null,\"scaling\":\"spell\"},\"level\":1,\"school\":\"abj\",\"components\":{\"value\":\"a small parchment with a bit of holy text written on it\",\"vocal\":true,\"somatic\":true,\"material\":true,\"ritual\":false,\"concentration\":true},\"materials\":{\"value\":\"a small parchment with a bit of holy text written on it\",\"consumed\":false,\"cost\":0,\"supply\":0},\"preparation\":{\"mode\":\"prepared\",\"prepared\":true},\"scaling\":{\"mode\":\"none\",\"formula\":\"\"},\"prof\":{\"_baseProficiency\":2,\"multiplier\":1,\"rounding\":\"down\"},\"damageLabel\":\"Damage\",\"isAttack\":false,\"uses\":{\"value\":null,\"max\":null,\"per\":\"\"},\"castedLevel\":\"1\"},\"effects\":[{\"_id\":\"bzhh2mdvhxp1vmlt\",\"changes\":[{\"key\":\"data.attributes.ac.bonus\",\"value\":\"+2\",\"mode\":2,\"priority\":\"20\"},{\"key\":\"macro.tokenMagic\",\"value\":\"bloom\",\"mode\":0,\"priority\":20}],\"disabled\":false,\"duration\":{\"startTime\":null},\"icon\":\"systems/dnd5e/icons/spells/protect-sky-2.jpg\",\"label\":\"Shield of Faith\",\"tint\":null,\"transfer\":false,\"flags\":{\"dae\":{\"transfer\":false,\"stackable\":\"none\"},\"ddbimporter\":{\"disabled\":false},\"midi-qol\":{\"forceCEOff\":true}}}],\"folder\":null,\"sort\":0,\"permission\":{\"default\":0,\"AyOgiIgWkJEbVBK0\":3},\"flags\":{\"ddbimporter\":{\"id\":138705,\"definitionId\":2248,\"entityTypeId\":435869154,\"dndbeyond\":{\"lookup\":\"generic\",\"lookupName\":\"generic\",\"level\":null,\"castAtLevel\":null},\"originalName\":\"Shield of Faith\",\"sources\":[{\"sourceId\":1,\"pageNumber\":null,\"sourceType\":2},{\"sourceId\":2,\"pageNumber\":275,\"sourceType\":1}],\"tags\":[\"Buff\",\"Warding\"],\"version\":\"2.9.66\",\"effectsApplied\":true,\"parentId\":\"273sbPTJCxgO2cjX\"},\"betterRolls5e\":{\"quickDesc\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickAttack\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickSave\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickDamage\":{\"type\":\"Array\",\"value\":[],\"altValue\":[],\"context\":[]},\"quickVersatile\":{\"type\":\"Boolean\",\"value\":false,\"altValue\":true},\"quickProperties\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickCharges\":{\"type\":\"Boolean\",\"value\":{\"use\":true,\"resource\":true},\"altValue\":{\"use\":true,\"resource\":true}},\"quickTemplate\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickOther\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true,\"context\":\"\"},\"quickFlavor\":{\"type\":\"Boolean\",\"value\":true,\"altValue\":true},\"quickPrompt\":{\"type\":\"Boolean\",\"value\":false,\"altValue\":false}},\"midi-qol\":{\"onUseMacroParts\":{\"items\":[]}},\"midiProperties\":{}}},\"token\":\"Scene.tRj2oeWvgdWqQ06i.Token.OZeT0A9NGOtIdPy0\"},\"ddbimporter\":{\"disabled\":false},\"midi-qol\":{\"forceCEOff\":true}}}},{\"actorUuid\":\"Actor.Lck668mMoJCWJIey\",\"effectData\":{\"_id\":\"JfnaqXX8IPWg80yl\",\"changes\":[{\"key\":\"flags.dae.deleteUuid\",\"value\":\"Scene.tRj2oeWvgdWqQ06i.MeasuredTemplate.KYepDG67SMUX53m1\",\"mode\":5,\"priority\":20}],\"disabled\":true,\"duration\":{\"rounds\":0,\"turns\":0,\"startRound\":2,\"startTurn\":1,\"startTime\":420,\"seconds\":60},\"icon\":\"systems/dnd5e/icons/spells/light-air-fire-2.jpg\",\"label\":\"Flaming Sphere Template\",\"origin\":\"Actor.Lck668mMoJCWJIey.Item.DzKl8EQFzPFd4UCo\",\"transfer\":false,\"flags\":{\"dae\":{\"stackable\":\"multi\"}}}},{\"actorUuid\":\"Scene.tRj2oeWvgdWqQ06i.Token.B6nlqkFpOgENl1zR\",\"effectData\":{\"_id\":\"mxo1mo75i2vqgpyz\",\"changes\":[],\"disabled\":false,\"duration\":{\"startRound\":1,\"rounds\":0,\"startTime\":414,\"startTurn\":2,\"seconds\":60,\"turns\":0},\"icon\":\"systems/dnd5e/icons/spells/enchant-magenta-2.jpg\",\"label\":\"Spiritual Weapon\",\"origin\":\"Scene.tRj2oeWvgdWqQ06i.Token.B6nlqkFpOgENl1zR.Item.VIEPBycmCqW6YHkL\",\"tint\":null,\"transfer\":false,\"flags\":{\"core\":{\"statusId\":\"Convenient Effect: Spiritual Weapon\"},\"isConvenient\":true,\"convenientDescription\":\"No active effects and lasts for 1 minute\"}}},{\"actorUuid\":\"Scene.tRj2oeWvgdWqQ06i.Token.B6nlqkFpOgENl1zR\",\"effectData\":{\"_id\":\"98c6fdl8eqmhghve\",\"changes\":[{\"key\":\"macro.itemMacro\",\"value\":\"2\",\"mode\":0,\"priority\":20}],\"disabled\":false,\"duration\":{\"startTime\":414,\"rounds\":0,\"turns\":0,\"startRound\":1,\"startTurn\":2,\"seconds\":60},\"icon\":\"icons/magic/fire/dagger-rune-enchant-flame-purple-orange.webp\",\"label\":\"Spiritual Weapon\",\"origin\":\"Scene.tRj2oeWvgdWqQ06i.Token.B6nlqkFpOgENl1zR.Item.VIEPBycmCqW6YHkL\",\"tint\":null,\"transfer\":false,\"flags\":{\"dae\":{\"transfer\":false,\"stackable\":\"none\",\"selfTarget\":true,\"itemData\":{\"_id\":\"VIEPBycmCqW6YHkL\",\"name\":\"Spiritual Weapon\",\"type\":\"spell\",\"img\":\"icons/magic/fire/dagger-rune-enchant-flame-purple-orange.webp\",\"data\":{\"description\":{\"value\":\"<p>You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes force damage equal to 1d8 + your spellcasting ability modifier.</p>\\n<p>As a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it.</p>\\n<p>The weapon can take whatever form you choose. Clerics of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this spell's effect resemble that weapon.</p>\\n<p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above 2nd.</p>\",\"chat\":\"\",\"unidentified\":\"\"},\"source\":\"Basic Rules, Player's Handbook pg 278\",\"activation\":{\"type\":\"bonus\",\"cost\":1,\"condition\":\"\"},\"duration\":{\"value\":1,\"units\":\"minute\"},\"target\":{\"value\":null,\"width\":null,\"units\":null,\"type\":\"self\"},\"range\":{\"value\":60,\"long\":null,\"units\":\"ft\"},\"uses\":{\"value\":null,\"max\":null,\"per\":\"\"},\"consume\":{\"type\":\"\",\"target\":null,\"amount\":null},\"ability\":null,\"actionType\":\"other\",\"attackBonus\":0,\"chatFlavor\":\"\",\"critical\":{\"threshold\":null,\"damage\":\"\"},\"damage\":{\"parts\":[],\"versatile\":\"\",\"value\":\"\"},\"formula\":\"\",\"save\":{\"ability\":\"\",\"dc\":null,\"scaling\":\"spell\"},\"level\":2,\"school\":\"evo\",\"components\":{\"value\":\"\",\"vocal\":true,\"somatic\":true,\"material\":false,\"ritual\":false,\"concentration\":false},\"materials\":{\"value\":\"\",\"consumed\":false,\"cost\":0,\"supply\":0},\"preparation\":{\"mode\":\"prepared\",\"prepared\":true},\"scaling\":{\"mode\":\"level\",\"formula\":\"1d8\"},\"prof\":{\"_baseProficiency\":2,\"multiplier\":1,\"rounding\":\"down\"}},\"effects\":[{\"_id\":\"cz69m1jjphaxmgc9\",\"changes\":[{\"key\":\"macro.itemMacro\",\"value\":\"@item.level\",\"mode\":0,\"priority\":20}],\"disabled\":false,\"duration\":{\"startTime\":null},\"icon\":\"icons/magic/fire/dagger-rune-enchant-flame-purple-orange.webp\",\"label\":\"Spiritual Weapon\",\"tint\":null,\"transfer\":false,\"flags\":{\"dae\":{\"transfer\":false,\"stackable\":\"none\",\"selfTarget\":true},\"ddbimporter\":{\"disabled\":false},\"midi-qol\":{\"forceCEOff\":true}}}],\"folder\":null,\"sort\":0,\"permission\":{\"default\":0,\"AyOgiIgWkJEbVBK0\":3},\"flags\":{\"ddbimporter\":{\"id\":138787,\"definitionId\":2263,\"entityTypeId\":435869154,\"dndbeyond\":{\"lookup\":\"generic\",\"lookupName\":\"generic\",\"level\":null,\"castAtLevel\":null},\"originalName\":\"Spiritual Weapon\",\"sources\":[{\"sourceId\":1,\"pageNumber\":null,\"sourceType\":2},{\"sourceId\":2,\"pageNumber\":278,\"sourceType\":1}],\"tags\":[\"Damage\"],\"version\":\"2.9.66\",\"effectsApplied\":true,\"parentId\":\"273sbPTJCxgO2cjX\"},\"betterRolls5e\":{\"quickVersatile\":{\"altValue\":true,\"value\":false},\"quickCharges\":{\"value\":{\"use\":true,\"resource\":true},\"altValue\":{\"use\":true,\"resource\":true}},\"quickDamage\":{\"context\":{\"0\":\"\"},\"value\":{\"0\":true},\"altValue\":{\"0\":true}},\"quickOther\":{\"context\":\"\",\"value\":true,\"altValue\":true},\"quickDesc\":{\"value\":true,\"altValue\":true},\"quickAttack\":{\"value\":true,\"altValue\":true},\"quickProperties\":{\"value\":true,\"altValue\":true},\"quickFlavor\":{\"value\":true,\"altValue\":true}},\"midi-qol\":{\"effectActivation\":false,\"onUseMacroParts\":{\"items\":[]}},\"midiProperties\":{\"nodam\":false,\"halfdam\":false,\"fulldam\":false,\"rollOther\":false,\"critOther\":false,\"concentration\":false},\"itemacro\":{\"macro\":{\"data\":{\"name\":\"Spiritual Weapon\",\"type\":\"script\",\"scope\":\"global\",\"command\":\"const lastArg = args[args.length - 1];\\nconst castItemName = \\\"Summoned Spiritual Weapon\\\";\\nconst tokenOrActor = await fromUuid(lastArg.actorUuid);\\nconst targetActor = tokenOrActor.actor ? tokenOrActor.actor : tokenOrActor;\\n\\n\\nasync function deleteTemplates(actorId) {\\n  let removeTemplates = canvas.templates.placeables.filter(\\n    (i) => i.data.flags?.SpiritualWeaponRange?.ActorId === actorId\\n  );\\n  await canvas.scene.deleteEmbeddedDocuments(\\\"MeasuredTemplate\\\", removeTemplates.map((t) => t.id));\\n}\\n\\n/**\\n * Create Spiritual Weapon item in inventory\\n */\\nif (args[0] === \\\"on\\\") {\\n  const tokenFromUuid  = await fromUuid(lastArg.tokenUuid);\\n  const targetToken = tokenFromUuid.data || token;\\n  const DAEItem = lastArg.efData.flags.dae.itemData;\\n  const damage = Math.floor(Math.floor(args[1]/ 2));\\n  // draw range template\\n  await canvas.scene.createEmbeddedDocuments(\\\"MeasuredTemplate\\\", [\\n    {\\n      t: \\\"circle\\\",\\n      user: game.userId,\\n      x: targetToken.x + canvas.grid.size / 2,\\n      y: targetToken.y + canvas.grid.size / 2,\\n      direction: 0,\\n      distance: 60,\\n      borderColor: \\\"#FF0000\\\",\\n      flags: {\\n        SpiritualWeaponRange: {\\n          ActorId: targetActor.id,\\n        },\\n      },\\n    },\\n  ]);\\n\\n  const templateData = {\\n    t: \\\"rect\\\",\\n    user: game.user.id,\\n    distance: 7,\\n    direction: 45,\\n    x: 0,\\n    y: 0,\\n    flags: {\\n      SpiritualWeapon: {\\n        ActorId: targetActor.id,\\n      },\\n    },\\n    fillColor: game.user.color,\\n    texture: DAEItem.img,\\n  };\\n  Hooks.once(\\\"createMeasuredTemplate\\\", () => deleteTemplates(targetActor.id));\\n  const doc = new CONFIG.MeasuredTemplate.documentClass(templateData, { parent: canvas.scene });\\n  let template = new game.dnd5e.canvas.AbilityTemplate(doc);\\n  template.actorSheet = targetActor.sheet;\\n  template.drawPreview();\\n\\n  const castItem = targetActor.data.items.find((i) => i.name === castItemName && i.type === \\\"weapon\\\");\\n  if (!castItem) {\\n    const weaponData = {\\n      name: castItemName,\\n      type: \\\"weapon\\\",\\n      data: {\\n        quantity: 1,\\n        activation: { type: \\\"bonus\\\", cost: 1, condition: \\\"\\\", },\\n        target: { value: 1, type: \\\"creature\\\", },\\n        // we choose 60ft here in case the midi-check range is on\\n        range: { value: 60, long: null, units: \\\"ft\\\", },\\n        ability: DAEItem.data.ability,\\n        attackBonus: DAEItem.data.attackBonus,\\n        actionType: \\\"msak\\\",\\n        chatFlavor: \\\"\\\",\\n        critical: null,\\n        damage: { parts: [[`${damage}d8+@mod`, \\\"force\\\"]], versatile: \\\"\\\" },\\n        weaponType: \\\"simpleM\\\",\\n        proficient: true,\\n        equipped: true,\\n      },\\n      flags: { SpiritualWeapon: targetActor.id },\\n      img: DAEItem.img,\\n    };\\n\\n    await targetActor.createEmbeddedDocuments(\\\"Item\\\", [weaponData]);\\n    ui.notifications.notify(\\\"Weapon created in your inventory\\\");\\n  }\\n}\\n\\n// Delete Spiritual Weapon\\nif (args[0] === \\\"off\\\") {\\n  let swords = targetActor.data.items.filter((i) => i.data.flags?.SpiritualWeapon === targetActor.id);\\n  if (swords.length > 0) await targetActor.deleteEmbeddedDocuments(\\\"Item\\\", swords.map((s) => s.id));\\n  const templates = canvas.templates.placeables.filter((i) => i.data.flags?.SpiritualWeapon?.ActorId === targetActor.id);\\n  if (templates.length > 0) await canvas.scene.deleteEmbeddedDocuments(\\\"MeasuredTemplate\\\", templates.map((t) => t.id));\\n}\\n\"},\"options\":{},\"apps\":{},\"compendium\":null}}}},\"token\":\"Scene.tRj2oeWvgdWqQ06i.Token.B6nlqkFpOgENl1zR\"},\"ddbimporter\":{\"disabled\":false},\"midi-qol\":{\"forceCEOff\":true}}}},{\"actorUuid\":\"Scene.tRj2oeWvgdWqQ06i.Token.AY6lEFVvZNFVnLE9\",\"effectData\":{\"_id\":\"rxdgnuv364ac3a0f\",\"changes\":[],\"disabled\":false,\"duration\":{\"startTime\":420,\"seconds\":3600},\"icon\":\"systems/dnd5e/icons/spells/heal-royal-1.jpg\",\"label\":\"False Life\",\"origin\":\"Scene.tRj2oeWvgdWqQ06i.Token.AY6lEFVvZNFVnLE9.Item.hvq7d5hmbjsob2w0\",\"tint\":null,\"transfer\":false,\"flags\":{\"requiresActorUpdate\":true,\"core\":{\"statusId\":\"Convenient Effect: False Life\"},\"isConvenient\":true,\"convenientDescription\":\"Add 1d4 + 4 temp hit points (rolled automatically) for 1 hour\"}}}]}"
+  },
+  {
+    "key": "Token-Mold.everyone",
+    "value": "{\"unlinkedOnly\":true,\"name\":{\"use\":true,\"number\":{\"use\":false,\"prefix\":\" (\",\"suffix\":\")\",\"type\":\"ar\",\"range\":1},\"remove\":false,\"prefix\":{\"use\":true,\"position\":\"front\",\"table\":\"Compendium.token-mold.adjectives.BGNM2VPUyFfA5ZMJ\"},\"replace\":\"nothing\",\"options\":{\"default\":\"random\",\"attributes\":[{\"languages\":{\"\":\"random\"},\"attribute\":\"\"}],\"min\":3,\"max\":9},\"baseNameOverride\":false},\"hp\":{\"use\":false,\"toChat\":false},\"size\":{\"use\":true},\"config\":{\"use\":true,\"vision\":{\"use\":false,\"value\":true},\"displayBars\":{\"use\":false,\"value\":40},\"bar1\":{\"use\":false,\"attribute\":\"\"},\"bar2\":{\"use\":false,\"attribute\":\"\"},\"displayName\":{\"use\":true,\"value\":30},\"disposition\":{\"use\":false,\"value\":0},\"rotation\":{\"use\":false,\"min\":0,\"max\":360},\"scale\":{\"use\":true,\"min\":0.8,\"max\":1.2},\"mirrorX\":{\"use\":false},\"mirrorY\":{\"use\":false}},\"overlay\":{\"use\":true,\"attrs\":[{\"value\":\"data.attributes.ac.value\",\"label\":\"Armor Class\",\"icon\":\"<i class=\\\"fas fa-eye\\\"></i>\"},{\"value\":\"data.skills.prc.passive\",\"label\":\"Passive Perception\",\"icon\":\"<i class=\\\"fas fa-shield-alt\\\"></i>\"}]}}"
+  },
+  {
+    "key": "tokenmagic.autoTemplateSettings",
+    "value": "{\"categories\":{\"acid\":{\"opacity\":0.6,\"tint\":\"#2d8000\",\"circle\":{\"preset\":\"Watery Surface 2\",\"texture\":\"\"},\"cone\":{\"preset\":\"Watery Surface 2\",\"texture\":\"\"},\"rect\":{\"preset\":\"Watery Surface 2\",\"texture\":\"\"},\"ray\":{\"preset\":\"Watery Surface 2\",\"texture\":\"\"}},\"bludgeoning\":{\"opacity\":0.5,\"tint\":\"\",\"circle\":{\"preset\":\"NOFX\",\"texture\":\"\"},\"cone\":{\"preset\":\"NOFX\",\"texture\":\"\"},\"rect\":{\"preset\":\"NOFX\",\"texture\":\"\"},\"ray\":{\"preset\":\"NOFX\",\"texture\":\"\"}},\"cold\":{\"opacity\":0.5,\"tint\":\"#47b3ff\",\"circle\":{\"preset\":\"Thick Fog\",\"texture\":\"\"},\"cone\":{\"preset\":\"Thick Fog\",\"texture\":\"\"},\"rect\":{\"preset\":\"Thick Fog\",\"texture\":\"\"},\"ray\":{\"preset\":\"Thick Fog\",\"texture\":\"\"}},\"fire\":{\"opacity\":0.5,\"tint\":\"\",\"circle\":{\"preset\":\"Flames\",\"texture\":\"\"},\"cone\":{\"preset\":\"Flames\",\"texture\":\"\"},\"rect\":{\"preset\":\"Flames\",\"texture\":\"\"},\"ray\":{\"preset\":\"Flames\",\"texture\":\"\"}},\"force\":{\"opacity\":0.5,\"tint\":\"\",\"circle\":{\"preset\":\"Waves 3\",\"texture\":\"\"},\"cone\":{\"preset\":\"Waves 3\",\"texture\":\"\"},\"rect\":{\"preset\":\"Waves 3\",\"texture\":\"\"},\"ray\":{\"preset\":\"Waves 3\",\"texture\":\"\"}},\"lightning\":{\"opacity\":0.5,\"tint\":\"\",\"circle\":{\"preset\":\"Shock\",\"texture\":\"\"},\"cone\":{\"preset\":\"Shock\",\"texture\":\"\"},\"rect\":{\"preset\":\"Shock\",\"texture\":\"\"},\"ray\":{\"preset\":\"Shock\",\"texture\":\"\"}},\"necrotic\":{\"opacity\":0.5,\"tint\":\"#502673\",\"circle\":{\"preset\":\"Smoke Filaments\",\"texture\":\"\"},\"cone\":{\"preset\":\"Smoke Filaments\",\"texture\":\"\"},\"rect\":{\"preset\":\"Smoke Filaments\",\"texture\":\"\"},\"ray\":{\"preset\":\"Smoke Filaments\",\"texture\":\"\"}},\"piercing\":{\"opacity\":0.5,\"tint\":\"\",\"circle\":{\"preset\":\"NOFX\",\"texture\":\"\"},\"cone\":{\"preset\":\"NOFX\",\"texture\":\"\"},\"rect\":{\"preset\":\"NOFX\",\"texture\":\"\"},\"ray\":{\"preset\":\"NOFX\",\"texture\":\"\"}},\"poison\":{\"opacity\":0.5,\"tint\":\"#00a80b\",\"circle\":{\"preset\":\"Smoky Area\",\"texture\":\"\"},\"cone\":{\"preset\":\"Smoky Area\",\"texture\":\"\"},\"rect\":{\"preset\":\"Smoky Area\",\"texture\":\"\"},\"ray\":{\"preset\":\"Smoky Area\",\"texture\":\"\"}},\"psychic\":{\"opacity\":0.5,\"tint\":\"#8000ff\",\"circle\":{\"preset\":\"Classic Rays\",\"texture\":\"\"},\"cone\":{\"preset\":\"Classic Rays\",\"texture\":\"\"},\"rect\":{\"preset\":\"Classic Rays\",\"texture\":\"\"},\"ray\":{\"preset\":\"Classic Rays\",\"texture\":\"\"}},\"radiant\":{\"opacity\":0.5,\"tint\":\"\",\"circle\":{\"preset\":\"Annihilating Rays\",\"texture\":\"\"},\"cone\":{\"preset\":\"Annihilating Rays\",\"texture\":\"\"},\"rect\":{\"preset\":\"Annihilating Rays\",\"texture\":\"\"},\"ray\":{\"preset\":\"Annihilating Rays\",\"texture\":\"\"}},\"slashing\":{\"opacity\":0.5,\"tint\":\"\",\"circle\":{\"preset\":\"NOFX\",\"texture\":\"\"},\"cone\":{\"preset\":\"NOFX\",\"texture\":\"\"},\"rect\":{\"preset\":\"NOFX\",\"texture\":\"\"},\"ray\":{\"preset\":\"NOFX\",\"texture\":\"\"}},\"thunder\":{\"opacity\":0.5,\"tint\":\"#0060ff\",\"circle\":{\"preset\":\"Waves\",\"texture\":\"\"},\"cone\":{\"preset\":\"Waves\",\"texture\":\"\"},\"rect\":{\"preset\":\"Waves\",\"texture\":\"\"},\"ray\":{\"preset\":\"Waves\",\"texture\":\"\"}},\"midi-none\":{\"opacity\":0.5,\"tint\":\"\",\"circle\":{\"preset\":\"NOFX\",\"texture\":\"\"},\"cone\":{\"preset\":\"NOFX\",\"texture\":\"\"},\"rect\":{\"preset\":\"NOFX\",\"texture\":\"\"},\"ray\":{\"preset\":\"NOFX\",\"texture\":\"\"}}},\"overrides\":{\"0\":{\"target\":\"Stinking Cloud\",\"opacity\":0.5,\"tint\":\"#00a80b\",\"preset\":\"Smoky Area\",\"texture\":\"\"},\"1\":{\"target\":\"Web\",\"opacity\":0.5,\"tint\":\"#808080\",\"preset\":\"Spider Web 2\",\"texture\":\"\"},\"2\":{\"target\":\"Flaming Sphere\",\"opacity\":0.5,\"tint\":\"#f0b30a\",\"preset\":\"Flames\",\"texture\":\"\"}}}"
+  },
+  {
+    "key": "tokenmagic.migration",
+    "value": "\"0.4.3\""
+  },
+  {
+    "key": "tokenmagic.presets",
+    "value": "[{\"name\":\"bevel\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"bevel\",\"filterId\":\"bevel\",\"rotation\":0,\"thickness\":5,\"lightColor\":16711680,\"lightAlpha\":0.8,\"shadowColor\":65280,\"shadowAlpha\":0.5,\"animated\":{\"rotation\":{\"active\":true,\"clockWise\":true,\"loopDuration\":1600,\"animType\":\"syncRotation\"}}}]},{\"name\":\"adjustment\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"adjustment\",\"filterId\":\"adjustment\",\"saturation\":1.5,\"brightness\":1.5,\"contrast\":2,\"gamma\":2,\"red\":4,\"green\":0.25,\"blue\":0.25,\"alpha\":1,\"animated\":{\"alpha\":{\"active\":true,\"loopDuration\":5000,\"animType\":\"syncCosOscillation\",\"val1\":0.15,\"val2\":1}}}]},{\"name\":\"dropshadow\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"shadow\",\"filterId\":\"dropshadow\",\"rotation\":35,\"blur\":2,\"quality\":5,\"distance\":20,\"alpha\":0.7,\"padding\":10,\"shadowOnly\":false,\"color\":0,\"animated\":{\"blur\":{\"active\":true,\"loopDuration\":1500,\"animType\":\"syncCosOscillation\",\"val1\":2,\"val2\":3},\"rotation\":{\"active\":true,\"loopDuration\":150,\"animType\":\"syncSinOscillation\",\"val1\":33,\"val2\":35}}}]},{\"name\":\"outline\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"outline\",\"filterId\":\"outline\",\"padding\":10,\"color\":15622197,\"thickness\":1,\"quality\":5,\"animated\":{\"thickness\":{\"active\":true,\"loopDuration\":800,\"animType\":\"syncCosOscillation\",\"val1\":1,\"val2\":6}}}]},{\"name\":\"glow\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"glow\",\"filterId\":\"glow\",\"outerStrength\":7,\"innerStrength\":0,\"color\":24576,\"quality\":0.5,\"padding\":10,\"animated\":{\"color\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"colorOscillation\",\"val1\":12288,\"val2\":65280}}}]},{\"name\":\"bloom\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xbloom\",\"filterId\":\"bloom\",\"threshold\":0.35,\"bloomScale\":0,\"brightness\":1,\"blur\":0.1,\"padding\":10,\"quality\":15,\"blendMode\":0,\"animated\":{\"bloomScale\":{\"active\":true,\"loopDuration\":2000,\"animType\":\"syncCosOscillation\",\"val1\":0,\"val2\":2.1},\"threshold\":{\"active\":false,\"loopDuration\":1000,\"animType\":\"syncCosOscillation\",\"val1\":0,\"val2\":1.9}}}]},{\"name\":\"distortion\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"distortion\",\"filterId\":\"distortion\",\"maskPath\":\"modules/tokenmagic/fx/assets/distortion-1.png\",\"maskSpriteScaleX\":5,\"maskSpriteScaleY\":5,\"padding\":20,\"animated\":{\"maskSpriteX\":{\"active\":true,\"speed\":0.05,\"animType\":\"move\"},\"maskSpriteY\":{\"active\":true,\"speed\":0.07,\"animType\":\"move\"}}}]},{\"name\":\"oldfilm\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"oldfilm\",\"filterId\":\"oldfilm\",\"sepia\":0.6,\"noise\":0.2,\"noiseSize\":1,\"scratch\":0.8,\"scratchDensity\":0.5,\"scratchWidth\":1.2,\"vignetting\":0.9,\"vignettingAlpha\":0.6,\"vignettingBlur\":0.2,\"animated\":{\"seed\":{\"active\":true,\"animType\":\"randomNumber\",\"val1\":0,\"val2\":1},\"vignetting\":{\"active\":true,\"animType\":\"syncCosOscillation\",\"loopDuration\":2000,\"val1\":0.2,\"val2\":0.4}}},{\"filterType\":\"outline\",\"filterId\":\"oldfilm\",\"color\":0,\"thickness\":0}]},{\"name\":\"twist\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"twist\",\"filterId\":\"twist\",\"radiusPercent\":120,\"angle\":0,\"animated\":{\"angle\":{\"active\":true,\"animType\":\"sinOscillation\",\"loopDuration\":10000,\"val1\":-1.8849555921538759,\"val2\":1.8849555921538759}}}]},{\"name\":\"bulge\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"bulgepinch\",\"filterId\":\"bulge\",\"padding\":150,\"strength\":0,\"zIndex\":2,\"radiusPercent\":200,\"animated\":{\"strength\":{\"active\":true,\"animType\":\"cosOscillation\",\"loopDuration\":2000,\"val1\":0,\"val2\":0.45}}}]},{\"name\":\"blur\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"blur\",\"filterId\":\"blur\",\"padding\":10,\"quality\":4,\"blur\":0,\"blurX\":0,\"blurY\":0,\"animated\":{\"blurX\":{\"active\":true,\"animType\":\"syncCosOscillation\",\"loopDuration\":500,\"val1\":0,\"val2\":6},\"blurY\":{\"active\":true,\"animType\":\"syncCosOscillation\",\"loopDuration\":750,\"val1\":0,\"val2\":6}}}]},{\"name\":\"zoomblur\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"zoomblur\",\"filterId\":\"zoomblur\",\"strength\":0.15,\"innerRadiusPercent\":65,\"radiusPercent\":100,\"padding\":30,\"animated\":{\"innerRadiusPercent\":{\"active\":true,\"animType\":\"sinOscillation\",\"loopDuration\":500,\"val1\":65,\"val2\":75}}}]},{\"name\":\"shockwave\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"shockwave\",\"filterId\":\"shockwave\",\"time\":0,\"amplitude\":8,\"wavelength\":75,\"radius\":500,\"brightness\":1.5,\"speed\":25,\"padding\":0,\"animated\":{\"time\":{\"animType\":\"cosOscillation\",\"active\":true,\"loopDuration\":1800,\"val1\":0,\"val2\":10}}}]},{\"name\":\"zapshadow\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"zapshadow\",\"filterId\":\"zapshadow\",\"alphaTolerance\":0.45}]},{\"name\":\"rays\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"ray\",\"filterId\":\"rays\",\"time\":0,\"color\":13598720,\"alpha\":0.5,\"divisor\":32,\"anchorX\":0,\"anchorY\":0,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0005,\"animType\":\"move\"}}}]},{\"name\":\"fog\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"fog\",\"filterId\":\"fog\",\"color\":0,\"density\":0.65,\"time\":0,\"dimX\":1,\"dimY\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":2.2,\"animType\":\"move\"}}}]},{\"name\":\"fumes\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"fumes\",\"filterId\":\"fumes\",\"color\":8421504,\"time\":0,\"blend\":8,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"}}}]},{\"name\":\"electric\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"electric\",\"filterId\":\"electric\",\"color\":16777215,\"time\":0,\"blend\":1,\"intensity\":5,\"animated\":{\"time\":{\"active\":true,\"speed\":0.002,\"animType\":\"move\"}}}]},{\"name\":\"fire\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"fire\",\"filterId\":\"fire\",\"intensity\":1,\"color\":16777215,\"amplitude\":1,\"time\":0,\"blend\":2,\"fireBlend\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0024,\"animType\":\"move\"},\"intensity\":{\"active\":true,\"loopDuration\":15000,\"val1\":0.8,\"val2\":2,\"animType\":\"syncCosOscillation\"},\"amplitude\":{\"active\":true,\"loopDuration\":4400,\"val1\":1,\"val2\":1.4,\"animType\":\"syncCosOscillation\"}}}]},{\"name\":\"waves\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"wave\",\"filterId\":\"waves\",\"time\":0,\"anchorX\":0.5,\"anchorY\":0.5,\"strength\":0.015,\"frequency\":120,\"color\":16777215,\"maxIntensity\":2.5,\"minIntensity\":0.9,\"padding\":10,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0085,\"animType\":\"move\"},\"anchorX\":{\"active\":false,\"val1\":0.15,\"val2\":0.85,\"animType\":\"syncChaoticOscillation\",\"loopDuration\":20000},\"anchorY\":{\"active\":false,\"val1\":0.15,\"val2\":0.85,\"animType\":\"syncSinOscillation\",\"loopDuration\":20000}}}]},{\"name\":\"flood\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"flood\",\"filterId\":\"flood\",\"time\":0,\"color\":8379,\"billowy\":0.43,\"tintIntensity\":0.72,\"glint\":0.31,\"scale\":70,\"padding\":10,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0006,\"animType\":\"move\"}}}]},{\"name\":\"smoke\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"smoke\",\"filterId\":\"smoke\",\"color\":5282269,\"time\":0,\"blend\":2,\"dimX\":0.1,\"dimY\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.009,\"animType\":\"move\"}}}]},{\"name\":\"images\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"images\",\"filterId\":\"images\",\"time\":0,\"nbImage\":4,\"alphaImg\":1,\"alphaChr\":0,\"blend\":4,\"ampX\":0.1,\"ampY\":0.1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"}}}]},{\"name\":\"chaos-images\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"images\",\"filterId\":\"chaos-images\",\"time\":0,\"nbImage\":4,\"alphaImg\":1,\"alphaChr\":0,\"blend\":4,\"ampX\":0.1,\"ampY\":0.1,\"padding\":80,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"},\"ampX\":{\"active\":true,\"val1\":0,\"val2\":0.3,\"chaosFactor\":0.03,\"animType\":\"syncChaoticOscillation\",\"loopDuration\":2000},\"ampY\":{\"active\":true,\"val1\":0,\"val2\":0.3,\"chaosFactor\":0.04,\"animType\":\"syncChaoticOscillation\",\"loopDuration\":1650},\"alphaChr\":{\"active\":true,\"animType\":\"randomNumberPerLoop\",\"val1\":0,\"val2\":1,\"loopDuration\":250},\"alphaImg\":{\"active\":true,\"animType\":\"randomNumberPerLoop\",\"val1\":0.8,\"val2\":1,\"loopDuration\":250},\"nbImage\":{\"active\":true,\"val1\":1,\"val2\":9,\"animType\":\"syncSinOscillation\",\"loopDuration\":1400}}}]},{\"name\":\"spectral-images\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"images\",\"filterId\":\"spectral-images\",\"time\":0,\"blend\":4,\"nbImage\":4,\"padding\":100,\"alphaImg\":0.5,\"alphaChr\":0,\"ampX\":0.1,\"ampY\":0.1,\"animated\":{\"time\":{\"speed\":0.001,\"animType\":\"move\"},\"ampX\":{\"val1\":0,\"val2\":0.22,\"animType\":\"syncCosOscillation\",\"loopDuration\":2500},\"ampY\":{\"val1\":0,\"val2\":0.24,\"animType\":\"syncCosOscillation\",\"loopDuration\":2500,\"pauseBetweenDuration\":2500},\"alphaChr\":{\"val1\":1,\"val2\":0,\"animType\":\"syncCosOscillation\",\"loopDuration\":2500},\"alphaImg\":{\"val1\":0.2,\"val2\":0.8,\"animType\":\"syncSinOscillation\",\"loopDuration\":2500}}}]},{\"name\":\"hexa-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"hexa-field\",\"shieldType\":2,\"gridPadding\":1.5,\"color\":13369548,\"time\":0,\"blend\":3,\"intensity\":1,\"lightAlpha\":0.5,\"lightSize\":0.5,\"scale\":1,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"fire-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"fire-field\",\"shieldType\":1,\"gridPadding\":2,\"color\":15041872,\"time\":0,\"blend\":2,\"intensity\":1.15,\"lightAlpha\":2,\"lightSize\":0.7,\"scale\":1,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"smoke-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"smoke-field\",\"shieldType\":3,\"gridPadding\":1.5,\"color\":6343792,\"time\":0,\"blend\":2,\"intensity\":0.9,\"lightAlpha\":1,\"lightSize\":0.7,\"scale\":1,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"earth-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"earth-field\",\"shieldType\":4,\"gridPadding\":2,\"color\":12292208,\"time\":0,\"blend\":1,\"intensity\":1.25,\"lightAlpha\":1,\"lightSize\":0.7,\"scale\":1,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"earth-field-top\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"earth-field-top\",\"shieldType\":5,\"gridPadding\":3,\"color\":11184810,\"time\":0,\"blend\":5,\"intensity\":1.9,\"lightAlpha\":1,\"lightSize\":0.7,\"scale\":1,\"radius\":1,\"zIndex\":5,\"chromatic\":true,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"air-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"air-field\",\"shieldType\":6,\"gridPadding\":1.2,\"color\":7377066,\"time\":0,\"blend\":14,\"intensity\":1,\"lightAlpha\":1,\"lightSize\":0.7,\"scale\":1,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"magic-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"magic-field\",\"shieldType\":7,\"gridPadding\":1,\"color\":16777215,\"time\":0,\"blend\":10,\"intensity\":0.8,\"lightAlpha\":1,\"lightSize\":0.45,\"scale\":1,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"chromatic-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"chromatic-field\",\"shieldType\":8,\"gridPadding\":2,\"color\":11184810,\"time\":0,\"blend\":0,\"intensity\":1,\"lightAlpha\":0,\"lightSize\":0,\"scale\":1,\"radius\":1,\"chromatic\":true,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0045,\"animType\":\"move\"}}}]},{\"name\":\"water-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"water-field\",\"shieldType\":9,\"gridPadding\":1.2,\"color\":2145262,\"time\":0,\"blend\":4,\"intensity\":1,\"lightAlpha\":0.7,\"lightSize\":0.5,\"scale\":0.6,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"evil-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"evil-field\",\"shieldType\":9,\"gridPadding\":2,\"color\":16723984,\"time\":0,\"blend\":5,\"intensity\":1,\"lightAlpha\":4,\"lightSize\":0.8,\"scale\":0.5,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0012,\"animType\":\"move\"},\"lightSize\":{\"val1\":0.4,\"val2\":1.5,\"animType\":\"syncCosOscillation\",\"loopDuration\":5000}}}]},{\"name\":\"grid-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"grid-field\",\"shieldType\":11,\"gridPadding\":2,\"color\":52428,\"time\":0,\"blend\":2,\"intensity\":1,\"lightAlpha\":1,\"lightSize\":0.3,\"scale\":0.5,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0009,\"animType\":\"move\"}}}]},{\"name\":\"warp-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"warp-field\",\"shieldType\":12,\"gridPadding\":2,\"color\":16777215,\"time\":0,\"blend\":2,\"intensity\":1,\"lightAlpha\":0.8,\"lightSize\":0.5,\"scale\":0.9,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0009,\"animType\":\"move\"}}}]},{\"name\":\"color-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"color-field\",\"shieldType\":13,\"gridPadding\":2,\"color\":52224,\"time\":0,\"blend\":14,\"intensity\":1,\"lightAlpha\":0,\"lightSize\":0,\"scale\":1,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0009,\"animType\":\"move\"}}}]},{\"name\":\"sunburst\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xray\",\"filterId\":\"sunburst\",\"time\":0,\"color\":16759552,\"blend\":9,\"dimX\":1,\"dimY\":1,\"anchorX\":0,\"anchorY\":0,\"divisor\":36,\"intensity\":4,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0012,\"animType\":\"move\"},\"anchorX\":{\"animType\":\"syncCosOscillation\",\"loopDuration\":6000,\"val1\":0.4,\"val2\":0.6}}}]},{\"name\":\"clover\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xray\",\"filterId\":\"clover\",\"time\":0,\"color\":65280,\"blend\":9,\"dimX\":0.05,\"dimY\":0.05,\"anchorX\":0.5,\"anchorY\":0.5,\"divisor\":4,\"intensity\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0012,\"animType\":\"move\"},\"anchorX\":{\"animType\":\"syncCosOscillation\",\"loopDuration\":6000,\"val1\":0.4,\"val2\":0.6},\"anchorY\":{\"animType\":\"syncSinOscillation\",\"loopDuration\":6000,\"val1\":0.4,\"val2\":0.6}}}]},{\"name\":\"scan\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xray\",\"filterId\":\"scan\",\"time\":0,\"color\":16777215,\"blend\":5,\"dimX\":20,\"dimY\":20,\"anchorX\":0.5,\"anchorY\":0,\"divisor\":8,\"intensity\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0005,\"animType\":\"move\"}}}]},{\"name\":\"blue-rays\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xray\",\"filterId\":\"blue-rays\",\"time\":0,\"color\":1061119,\"blend\":9,\"dimX\":1,\"dimY\":1,\"anchorX\":0,\"anchorY\":0,\"divisor\":24,\"intensity\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0002,\"animType\":\"move\"},\"anchorX\":{\"animType\":\"syncCosOscillation\",\"loopDuration\":18000,\"val1\":0.05,\"val2\":0.95},\"anchorY\":{\"animType\":\"syncSinOscillation\",\"loopDuration\":18000,\"val1\":0.05,\"val2\":0.95}}}]},{\"name\":\"spectral-body\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"liquid\",\"filterId\":\"spectral-body\",\"color\":2140910,\"time\":0,\"blend\":8,\"intensity\":4,\"spectral\":true,\"scale\":0.9,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"},\"color\":{\"active\":true,\"loopDuration\":6000,\"animType\":\"colorOscillation\",\"val1\":16777215,\"val2\":43775}}}]},{\"name\":\"mantle-of-madness\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"liquid\",\"filterId\":\"mantle-of-madness\",\"color\":37119,\"time\":0,\"blend\":5,\"intensity\":0.0001,\"spectral\":false,\"scale\":7,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"},\"intensity\":{\"active\":true,\"animType\":\"syncCosOscillation\",\"loopDuration\":30000,\"val1\":0.0001,\"val2\":4},\"scale\":{\"active\":true,\"animType\":\"syncCosOscillation\",\"loopDuration\":30000,\"val1\":7,\"val2\":1}}}]},{\"name\":\"drift-in-plans\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"wave\",\"filterId\":\"drift-in-plans\",\"time\":0,\"anchorX\":0.5,\"anchorY\":0.5,\"strength\":0.035,\"frequency\":80,\"color\":16777215,\"maxIntensity\":1.5,\"minIntensity\":0.5,\"padding\":10,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0085,\"animType\":\"move\"},\"anchorX\":{\"active\":true,\"val1\":0.35,\"val2\":0.65,\"animType\":\"syncCosOscillation\",\"loopDuration\":10000},\"anchorY\":{\"active\":true,\"val1\":0.35,\"val2\":0.65,\"animType\":\"syncSinOscillation\",\"loopDuration\":10000}}},{\"filterType\":\"liquid\",\"filterId\":\"drift-in-plans\",\"color\":16711680,\"time\":0,\"blend\":6,\"intensity\":5,\"spectral\":false,\"scale\":2.5,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0018,\"animType\":\"move\"},\"color\":{\"active\":true,\"loopDuration\":9000,\"animType\":\"colorOscillation\",\"val1\":16711680,\"val2\":16777215}}}]},{\"name\":\"fire-aura\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"zapshadow\",\"filterId\":\"fire-aura\",\"alphaTolerance\":0.5},{\"filterType\":\"xglow\",\"filterId\":\"fire-aura\",\"auraType\":2,\"color\":9449488,\"thickness\":9.8,\"scale\":4,\"time\":0,\"auraIntensity\":2,\"subAuraIntensity\":1.5,\"threshold\":0.4,\"discard\":true,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0027,\"animType\":\"move\"},\"thickness\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"cosOscillation\",\"val1\":2,\"val2\":5}}}]},{\"name\":\"glacial-aura\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"zapshadow\",\"filterId\":\"glacial-aura\",\"alphaTolerance\":0.5},{\"filterType\":\"xglow\",\"filterId\":\"glacial-aura\",\"auraType\":1,\"color\":5282269,\"thickness\":4.5,\"scale\":3,\"time\":0,\"auraIntensity\":0.8,\"subAuraIntensity\":0.25,\"threshold\":0.5,\"discard\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0018,\"animType\":\"move\"},\"thickness\":{\"val1\":2,\"val2\":4.7,\"animType\":\"cosOscillation\",\"loopDuration\":3000},\"subAuraIntensity\":{\"val1\":0.45,\"val2\":0.65,\"animType\":\"cosOscillation\",\"loopDuration\":6000},\"auraIntensity\":{\"val1\":0.9,\"val2\":2.2,\"animType\":\"cosOscillation\",\"loopDuration\":3000}}}]},{\"name\":\"anti-aura\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"zapshadow\",\"filterId\":\"anti-aura\",\"alphaTolerance\":0.5},{\"filterType\":\"xglow\",\"filterId\":\"anti-aura\",\"auraType\":2,\"color\":328965,\"thickness\":2.7,\"scale\":7,\"time\":0,\"auraIntensity\":5,\"subAuraIntensity\":2,\"threshold\":0.08,\"discard\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0012,\"animType\":\"move\"},\"auraIntensity\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"syncCosOscillation\",\"val1\":5,\"val2\":0},\"subAuraIntensity\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"syncCosOscillation\",\"val1\":2,\"val2\":0},\"color\":{\"active\":true,\"loopDuration\":6000,\"animType\":\"syncColorOscillation\",\"val1\":328965,\"val2\":2097152},\"threshold\":{\"active\":true,\"loopDuration\":1500,\"animType\":\"syncCosOscillation\",\"val1\":0.02,\"val2\":0.5}}}]},{\"name\":\"pure-fire-aura\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"fire\",\"filterId\":\"pure-fire-aura\",\"intensity\":1,\"color\":16777215,\"amplitude\":1,\"time\":0,\"blend\":2,\"fireBlend\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0024,\"animType\":\"move\"},\"intensity\":{\"active\":true,\"loopDuration\":15000,\"val1\":0.8,\"val2\":2,\"animType\":\"syncCosOscillation\"},\"amplitude\":{\"active\":true,\"loopDuration\":4400,\"val1\":1,\"val2\":1.4,\"animType\":\"syncCosOscillation\"}}},{\"filterType\":\"zapshadow\",\"filterId\":\"pure-fire-aura\",\"alphaTolerance\":0.5},{\"filterType\":\"xglow\",\"filterId\":\"pure-fire-aura\",\"auraType\":2,\"color\":9449488,\"thickness\":9.8,\"scale\":4,\"time\":0,\"auraIntensity\":2,\"subAuraIntensity\":1.5,\"threshold\":0.4,\"discard\":true,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0027,\"animType\":\"move\"},\"thickness\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"cosOscillation\",\"val1\":2,\"val2\":5}}}]},{\"name\":\"pure-fire-aura-2\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"zapshadow\",\"filterId\":\"pure-fire-aura-2\",\"alphaTolerance\":0.5},{\"filterType\":\"xglow\",\"filterId\":\"pure-fire-aura-2\",\"auraType\":2,\"color\":9449488,\"thickness\":9.8,\"scale\":4,\"time\":0,\"auraIntensity\":1,\"subAuraIntensity\":0.3,\"threshold\":0.5,\"discard\":true,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0027,\"animType\":\"move\"},\"thickness\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"cosOscillation\",\"val1\":2,\"val2\":3.6}}},{\"filterType\":\"fire\",\"filterId\":\"pure-fire-aura-2\",\"intensity\":1,\"color\":16777215,\"amplitude\":1,\"time\":0,\"blend\":2,\"fireBlend\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0024,\"animType\":\"move\"},\"intensity\":{\"active\":true,\"loopDuration\":15000,\"val1\":0.8,\"val2\":3,\"animType\":\"syncCosOscillation\"},\"amplitude\":{\"active\":true,\"loopDuration\":4400,\"val1\":1,\"val2\":1.6,\"animType\":\"syncCosOscillation\"}}}]},{\"name\":\"pure-ice-aura\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"zapshadow\",\"filterId\":\"pure-ice-aura\",\"alphaTolerance\":0.5},{\"filterType\":\"xglow\",\"filterId\":\"pure-ice-aura\",\"auraType\":1,\"color\":5282269,\"thickness\":4.5,\"scale\":10,\"time\":0,\"auraIntensity\":0.25,\"subAuraIntensity\":1,\"threshold\":0.5,\"discard\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0018,\"animType\":\"move\"},\"thickness\":{\"val1\":2,\"val2\":3.3,\"animType\":\"cosOscillation\",\"loopDuration\":3000},\"subAuraIntensity\":{\"val1\":0.45,\"val2\":0.65,\"animType\":\"cosOscillation\",\"loopDuration\":6000},\"auraIntensity\":{\"val1\":0.9,\"val2\":2.2,\"animType\":\"cosOscillation\",\"loopDuration\":3000}}},{\"filterType\":\"smoke\",\"filterId\":\"pure-ice-aura\",\"color\":8441087,\"time\":0,\"blend\":2,\"dimX\":0.3,\"dimY\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.006,\"animType\":\"move\"},\"dimX\":{\"val1\":0.4,\"val2\":0.2,\"animType\":\"cosOscillation\",\"loopDuration\":3000}}}]},{\"name\":\"pixelate\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"pixel\",\"filterId\":\"pixelate\",\"sizeX\":2.5,\"sizeY\":2.5}]},{\"name\":\"Watery Surface\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"flood\",\"filterId\":\"Watery Surface\",\"time\":0,\"color\":8379,\"billowy\":0.43,\"tintIntensity\":0.72,\"glint\":0.31,\"scale\":70,\"padding\":10,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0006,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Protoplasm\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"liquid\",\"filterId\":\"Protoplasm\",\"color\":2140910,\"time\":0,\"blend\":8,\"intensity\":4,\"spectral\":true,\"scale\":1.4,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Watery Surface 2\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/white-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"liquid\",\"filterId\":\"Watery Surface 2\",\"color\":2140910,\"time\":0,\"blend\":8,\"intensity\":4,\"spectral\":false,\"scale\":1.4,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Smoky Area\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"smoke\",\"filterId\":\"Smoky Area\",\"color\":11184810,\"time\":0,\"blend\":2,\"dimX\":1,\"dimY\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.002,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Shock\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/white-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"electric\",\"filterId\":\"Shock\",\"color\":16777215,\"time\":0,\"blend\":1,\"intensity\":5,\"animated\":{\"time\":{\"active\":true,\"speed\":0.002,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Annihilating Rays\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/white-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"xray\",\"filterId\":\"Annihilating Rays\",\"time\":0,\"color\":16759552,\"blend\":9,\"dimX\":1,\"dimY\":1,\"anchorX\":0,\"anchorY\":0,\"divisor\":6,\"intensity\":4,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0012,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Classic Rays\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"ray\",\"filterId\":\"Classic Rays\",\"time\":0,\"color\":13598720,\"alpha\":0.5,\"divisor\":32,\"anchorX\":0,\"anchorY\":0,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0005,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Smoke Filaments\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"fumes\",\"filterId\":\"Smoke Filaments\",\"color\":8421504,\"time\":0,\"blend\":8,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Flames\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"fire\",\"filterId\":\"Flames\",\"intensity\":1.5,\"color\":16777215,\"amplitude\":1.3,\"time\":0,\"blend\":2,\"fireBlend\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0016,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Thick Fog\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"xfog\",\"filterId\":\"Thick Fog\",\"autoFit\":false,\"color\":3182847,\"time\":0,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0006,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Glowing Outline\",\"library\":\"tmfx-template\",\"params\":[{\"filterType\":\"glow\",\"filterId\":\"Glowing Outline\",\"outerStrength\":5.5,\"innerStrength\":0,\"color\":24576,\"quality\":0.5,\"padding\":10,\"animated\":{\"outerStrength\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"syncCosOscillation\",\"val1\":5.5,\"val2\":1.5}},\"zOrder\":1}]},{\"name\":\"Waves\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/white-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"wave\",\"filterId\":\"Waves\",\"time\":0,\"anchorX\":0.5,\"anchorY\":0.5,\"strength\":0.015,\"frequency\":120,\"color\":16777215,\"maxIntensity\":2.5,\"minIntensity\":0.9,\"padding\":10,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0085,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Waves 2\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/white-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"wave\",\"filterId\":\"Waves 2\",\"time\":0,\"anchorX\":0.5,\"anchorY\":0.5,\"strength\":0.014,\"frequency\":400,\"color\":16777215,\"maxIntensity\":2.4,\"minIntensity\":0.8,\"padding\":10,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0385,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Waves 3\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/white-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"wave\",\"filterId\":\"Waves 3\",\"time\":0,\"anchorX\":0.5,\"anchorY\":0.5,\"strength\":0.017,\"frequency\":35,\"color\":16777215,\"maxIntensity\":2.6,\"minIntensity\":0.9,\"padding\":20,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0085,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Zone : Fire\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"xglow\",\"filterId\":\"Zone : Fire\",\"auraType\":1,\"color\":9449488,\"scale\":1.5,\"time\":0,\"auraIntensity\":1.8,\"subAuraIntensity\":0.25,\"threshold\":0.6,\"discard\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0027,\"animType\":\"move\"},\"thickness\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"cosOscillation\",\"val1\":2,\"val2\":5}},\"zOrder\":1},{\"filterType\":\"fire\",\"filterId\":\"Zone : Fire\",\"intensity\":1.5,\"color\":16777215,\"amplitude\":1,\"time\":0,\"blend\":2,\"fireBlend\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}},\"zOrder\":2}]},{\"name\":\"Zone : Electricity\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/white-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"xglow\",\"filterId\":\"Zone : Electricity\",\"auraType\":2,\"color\":3158064,\"scale\":1.5,\"time\":0,\"auraIntensity\":1,\"subAuraIntensity\":0.9,\"threshold\":0,\"discard\":true,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0027,\"animType\":\"move\"},\"thickness\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"cosOscillation\",\"val1\":1,\"val2\":2}},\"zOrder\":1},{\"filterType\":\"electric\",\"filterId\":\"Zone : Electricity\",\"color\":16777215,\"time\":0,\"blend\":1,\"intensity\":5,\"animated\":{\"time\":{\"active\":true,\"speed\":0.002,\"animType\":\"move\"}},\"zOrder\":2}]},{\"name\":\"Zone : Blizzard\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"xglow\",\"filterId\":\"Zone : Blizzard\",\"auraType\":1,\"color\":5282269,\"thickness\":4.5,\"scale\":5,\"time\":0,\"auraIntensity\":0.25,\"subAuraIntensity\":1,\"threshold\":0.5,\"discard\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0018,\"animType\":\"move\"},\"thickness\":{\"val1\":2,\"val2\":3.3,\"animType\":\"cosOscillation\",\"loopDuration\":3000},\"subAuraIntensity\":{\"val1\":0.05,\"val2\":0.1,\"animType\":\"cosOscillation\",\"loopDuration\":6000},\"auraIntensity\":{\"val1\":0.9,\"val2\":2.2,\"animType\":\"cosOscillation\",\"loopDuration\":3000}},\"zOrder\":1},{\"filterType\":\"smoke\",\"filterId\":\"Zone : Blizzard\",\"color\":8441087,\"time\":0,\"blend\":2,\"dimY\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.005,\"animType\":\"move\"},\"dimX\":{\"val1\":0.4,\"val2\":0.2,\"animType\":\"cosOscillation\",\"loopDuration\":3000}},\"zOrder\":2}]},{\"name\":\"Bulging Out\",\"library\":\"tmfx-template\",\"params\":[{\"filterType\":\"bulgepinch\",\"filterId\":\"Bulging Out\",\"padding\":150,\"strength\":0,\"radiusPercent\":200,\"animated\":{\"strength\":{\"active\":true,\"animType\":\"cosOscillation\",\"loopDuration\":2000,\"val1\":0,\"val2\":0.45}},\"zOrder\":1}]},{\"name\":\"Blurred Texture\",\"library\":\"tmfx-template\",\"params\":[{\"filterType\":\"blur\",\"filterId\":\"Blurred Texture\",\"padding\":25,\"quality\":4,\"blur\":0,\"blurX\":0,\"blurY\":0,\"animated\":{\"blurX\":{\"active\":true,\"animType\":\"syncCosOscillation\",\"loopDuration\":500,\"val1\":0,\"val2\":6},\"blurY\":{\"active\":true,\"animType\":\"syncCosOscillation\",\"loopDuration\":750,\"val1\":0,\"val2\":6}},\"zOrder\":1}]},{\"name\":\"Bloomed Texture\",\"library\":\"tmfx-template\",\"params\":[{\"filterType\":\"xbloom\",\"filterId\":\"Bloomed Texture\",\"threshold\":0.35,\"bloomScale\":0,\"brightness\":1,\"blur\":0.1,\"padding\":10,\"quality\":15,\"blendMode\":0,\"animated\":{\"bloomScale\":{\"active\":true,\"loopDuration\":2000,\"animType\":\"syncCosOscillation\",\"val1\":0,\"val2\":2.1},\"threshold\":{\"active\":false,\"loopDuration\":1000,\"animType\":\"syncCosOscillation\",\"val1\":0,\"val2\":1.9}},\"zOrder\":1}]},{\"name\":\"Wild Magic\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"liquid\",\"filterId\":\"Wild Magic\",\"color\":16711680,\"time\":0,\"blend\":6,\"intensity\":5,\"spectral\":false,\"scale\":2.5,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0018,\"animType\":\"move\"}},\"zOrder\":1},{\"filterType\":\"wave\",\"filterId\":\"Wild Magic\",\"time\":0,\"anchorX\":0.5,\"anchorY\":0.5,\"strength\":0.014,\"frequency\":10,\"color\":16777215,\"maxIntensity\":1.3,\"minIntensity\":0.6,\"padding\":10,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0065,\"animType\":\"move\"}},\"zOrder\":2}]},{\"name\":\"Spider Web 1\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"web\",\"filterId\":\"Spider Web 1\",\"anchorX\":0.5,\"anchorY\":0.5,\"color\":16777215,\"thickness\":2,\"div2\":5,\"time\":98.8,\"animated\":{\"time\":{\"active\":true,\"loopDuration\":5000,\"animType\":\"cosOscillation\",\"val1\":98.8,\"val2\":99.7}},\"zOrder\":1}]},{\"name\":\"Spider Web 2\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"web\",\"filterId\":\"Spider Web 2\",\"anchorX\":0.5,\"anchorY\":0.5,\"color\":13421772,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0005,\"animType\":\"move\"}},\"zOrder\":1},{\"filterType\":\"liquid\",\"filterId\":\"Spider Web 2\",\"color\":16711680,\"time\":0,\"blend\":4,\"intensity\":8,\"spectral\":false,\"scale\":0.2,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0005,\"animType\":\"move\"}},\"zOrder\":2}]},{\"name\":\"Spider Web 3\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"web\",\"filterId\":\"Spider Web 3\",\"anchorX\":0.5,\"anchorY\":0.5,\"color\":13421772,\"time\":100,\"zOrder\":1},{\"filterType\":\"liquid\",\"filterId\":\"Spider Web 3\",\"color\":16711680,\"time\":0,\"blend\":1,\"intensity\":4,\"spectral\":true,\"scale\":0.2,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0005,\"animType\":\"move\"}},\"zOrder\":2}]},{\"name\":\"Spider Web 4\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"web\",\"filterId\":\"Spider Web 4\",\"anchorX\":0.5,\"anchorY\":0.5,\"color\":13421772,\"thickness\":2,\"div2\":5,\"time\":98.8,\"zOrder\":1,\"alphaDiscard\":true,\"animated\":{\"time\":{\"active\":true,\"loopDuration\":5000,\"animType\":\"cosOscillation\",\"val1\":98.8,\"val2\":99.7}}},{\"filterType\":\"glow\",\"filterId\":\"Spider Web 4\",\"outerStrength\":7,\"innerStrength\":3,\"color\":24576,\"quality\":0.5,\"padding\":10,\"zOrder\":2,\"animated\":{\"outerStrength\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"syncCosOscillation\",\"val1\":7,\"val2\":4}}}]},{\"name\":\"Spider Web 5\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"web\",\"filterId\":\"Spider Web 5\",\"anchorX\":0.5,\"anchorY\":0.5,\"color\":10395294,\"thickness\":0.8,\"div2\":7,\"div1\":15,\"time\":97.8,\"alphaDiscard\":true,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"loopDuration\":5000,\"animType\":\"cosOscillation\",\"val1\":97.8,\"val2\":98.2}}},{\"filterType\":\"glow\",\"filterId\":\"Spider Web 5\",\"outerStrength\":6,\"innerStrength\":3,\"color\":10395294,\"quality\":0.5,\"padding\":10,\"zOrder\":2,\"animated\":{\"outerStrength\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"syncCosOscillation\",\"val1\":6,\"val2\":4}}}]},{\"name\":\"Ripples : Solar\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"ripples\",\"filterId\":\"Ripples : Solar\",\"color\":13206066,\"time\":98.8,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"animType\":\"move\",\"speed\":0.0005}}}]},{\"name\":\"Ripples : Shadow Sun\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"ripples\",\"filterId\":\"Ripples : Shadow Sun\",\"color\":6560636,\"time\":98.8,\"zOrder\":1,\"alphaDiscard\":true,\"animated\":{\"time\":{\"active\":true,\"animType\":\"move\",\"speed\":0.0005}}}]},{\"name\":\"Ripples : Scars\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"ripples\",\"filterId\":\"Ripples : Scars\",\"color\":2516765,\"time\":98.8,\"zOrder\":1,\"alphaDiscard\":true,\"animated\":{\"time\":{\"active\":true,\"animType\":\"move\",\"speed\":0.0005}}},{\"filterType\":\"glow\",\"filterId\":\"Ripples : Scars\",\"outerStrength\":7.5,\"innerStrength\":0.5,\"color\":2516765,\"quality\":0.5,\"padding\":10,\"zOrder\":2,\"animated\":{\"outerStrength\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"syncCosOscillation\",\"val1\":7.5,\"val2\":5.5}}}]},{\"name\":\"Fairy Fireflies : Calm\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"globes\",\"filterId\":\"Fairy Fireflies : Calm\",\"color\":2516765,\"time\":98.8,\"zOrder\":1,\"distortion\":0.25,\"scale\":80,\"alphaDiscard\":true,\"animated\":{\"time\":{\"active\":true,\"animType\":\"move\",\"speed\":0.0007}}}]},{\"name\":\"Fairy Fireflies : Excited\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"globes\",\"filterId\":\"Fairy Fireflies : Excited\",\"color\":31969,\"time\":98.8,\"zOrder\":1,\"distortion\":0.25,\"scale\":80,\"alphaDiscard\":true,\"animated\":{\"time\":{\"active\":true,\"animType\":\"move\",\"speed\":0.0012}}},{\"filterType\":\"glow\",\"filterId\":\"Fairy Fireflies : Excited\",\"outerStrength\":7.5,\"innerStrength\":0.5,\"color\":31969,\"quality\":0.5,\"padding\":10,\"zOrder\":2,\"animated\":{\"outerStrength\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"syncCosOscillation\",\"val1\":7.5,\"val2\":5.5}}}]},{\"name\":\"Fairy Fireflies : Frenetic\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"globes\",\"filterId\":\"Fairy Fireflies : Frenetic\",\"color\":14803200,\"time\":98.8,\"zOrder\":1,\"distortion\":1.45,\"scale\":80,\"alphaDiscard\":true,\"animated\":{\"time\":{\"active\":true,\"animType\":\"move\",\"speed\":0.0016}}},{\"filterType\":\"glow\",\"filterId\":\"Fairy Fireflies : Frenetic\",\"outerStrength\":7.5,\"innerStrength\":0.5,\"color\":14803200,\"quality\":0.5,\"padding\":10,\"zOrder\":2,\"animated\":{\"outerStrength\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"syncCosOscillation\",\"val1\":7.5,\"val2\":5.5}}}]},{\"name\":\"Living Fluid\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"xfog\",\"filterId\":\"Living Fluid\",\"color\":14872211,\"autoFit\":false,\"time\":0,\"zOrder\":1,\"alphaDiscard\":true,\"animated\":{\"time\":{\"active\":true,\"animType\":\"move\",\"speed\":0.0007}}}]},{\"name\":\"Living Fluid 2\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"xfog\",\"filterId\":\"Living Fluid 2\",\"color\":14872211,\"autoFit\":false,\"time\":0,\"zOrder\":1,\"alphaDiscard\":true,\"animated\":{\"time\":{\"active\":true,\"animType\":\"move\",\"speed\":0.0007}}},{\"filterType\":\"glow\",\"filterId\":\"Living Fluid 2\",\"outerStrength\":0.5,\"innerStrength\":0.5,\"color\":14872211,\"quality\":0.5,\"padding\":10,\"zOrder\":2}]},{\"name\":\"Living Fluid 3\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"liquid\",\"filterId\":\"Living Fluid 3\",\"color\":6937746,\"time\":0,\"blend\":8,\"intensity\":4,\"spectral\":true,\"alphaDiscard\":true,\"scale\":1.4,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"}}}]},{\"name\":\"Living Fluid 4\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"liquid\",\"filterId\":\"Living Fluid 4\",\"color\":15107115,\"time\":0,\"blend\":8,\"intensity\":4,\"spectral\":false,\"alphaDiscard\":true,\"scale\":1.4,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"}}},{\"filterType\":\"glow\",\"filterId\":\"Living Fluid 4\",\"outerStrength\":1,\"innerStrength\":1,\"color\":15107115,\"quality\":0.5,\"padding\":10,\"zOrder\":2}]},{\"name\":\"Flames 2\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"fire\",\"filterId\":\"Flames 2\",\"intensity\":1.5,\"color\":16777215,\"amplitude\":1.3,\"time\":0,\"blend\":2,\"fireBlend\":1,\"alphaDiscard\":true,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0016,\"animType\":\"move\"}}}]},{\"name\":\"Flames 3\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-pure.png\",\"params\":[{\"filterType\":\"fire\",\"filterId\":\"Flames 3\",\"intensity\":1.5,\"color\":16777215,\"amplitude\":1.3,\"time\":0,\"blend\":2,\"fireBlend\":1,\"alphaDiscard\":true,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0016,\"animType\":\"move\"}}},{\"filterType\":\"xglow\",\"filterId\":\"Flames 3\",\"auraType\":1,\"color\":9449488,\"thickness\":2,\"scale\":\"3\",\"time\":0,\"auraIntensity\":1,\"subAuraIntensity\":1,\"threshold\":0.4,\"discard\":true,\"zOrder\":2,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0027,\"animType\":\"move\"},\"thickness\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"cosOscillation\",\"val1\":2,\"val2\":5}}}]},{\"name\":\"Classic Rays 2\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"ray\",\"filterId\":\"Classic Rays 2\",\"time\":0,\"color\":13598720,\"alpha\":1,\"divisor\":16,\"anchorX\":0,\"anchorY\":0,\"alphaDiscard\":true,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0009,\"animType\":\"move\"}}}]},{\"name\":\"Fire Rays\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-pure.png\",\"params\":[{\"filterType\":\"ray\",\"filterId\":\"Fire Rays\",\"time\":0,\"color\":13598720,\"alpha\":1,\"divisor\":24,\"anchorX\":0,\"anchorY\":0,\"alphaDiscard\":true,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0009,\"animType\":\"move\"}}},{\"filterType\":\"glow\",\"filterId\":\"Fire Rays\",\"outerStrength\":1,\"innerStrength\":1,\"color\":9461760,\"quality\":0.5,\"padding\":10,\"zOrder\":2},{\"filterType\":\"fire\",\"filterId\":\"Fire Rays\",\"intensity\":1.5,\"color\":16777215,\"amplitude\":1.3,\"time\":0,\"blend\":2,\"fireBlend\":1,\"zOrder\":3,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0016,\"animType\":\"move\"}}}]},{\"name\":\"Splash 1\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"splash\",\"filterId\":\"Splash 1\",\"color\":9438469,\"time\":25,\"seed\":0.1,\"splashFactor\":5,\"spread\":10,\"blend\":2,\"dimX\":1,\"dimY\":1,\"cut\":true,\"textureAlphaBlend\":true,\"padding\":200,\"zOrder\":1},{\"filterType\":\"glow\",\"filterId\":\"Splash 1\",\"outerStrength\":3.3,\"innerStrength\":1,\"color\":9438469,\"quality\":0.5,\"padding\":10,\"zOrder\":2}]},{\"name\":\"Splash 2\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"splash\",\"filterId\":\"Splash 2\",\"color\":9438469,\"time\":25,\"seed\":0.1,\"splashFactor\":3,\"spread\":10,\"blend\":2,\"dimX\":1,\"dimY\":1,\"cut\":true,\"textureAlphaBlend\":true,\"padding\":200,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0009,\"animType\":\"move\"}}},{\"filterType\":\"glow\",\"filterId\":\"Splash 2\",\"outerStrength\":2,\"innerStrength\":1,\"color\":9438469,\"quality\":0.5,\"padding\":10,\"zOrder\":2}]},{\"name\":\"Splash 3\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"fumes\",\"filterId\":\"Splash 3\",\"color\":3690878,\"time\":0,\"blend\":4,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"}}},{\"filterType\":\"splash\",\"filterId\":\"Splash 3\",\"color\":3690878,\"time\":25,\"seed\":0.1,\"splashFactor\":3,\"spread\":10,\"blend\":2,\"dimX\":1,\"dimY\":1,\"cut\":true,\"textureAlphaBlend\":true,\"padding\":200,\"zOrder\":2,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0009,\"animType\":\"move\"}}},{\"filterType\":\"glow\",\"filterId\":\"Splash 3\",\"outerStrength\":3,\"innerStrength\":0.5,\"color\":3690878,\"quality\":0.5,\"padding\":10,\"zOrder\":3},{\"filterType\":\"liquid\",\"filterId\":\"Splash 3\",\"color\":3690878,\"time\":0,\"blend\":8,\"intensity\":3,\"spectral\":false,\"scale\":2,\"zOrder\":4,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"Flames 4 (colorizable)\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Flames 4 (colorizable)\",\"color\":0,\"blend\":1,\"amplitude\":1,\"dispersion\":0,\"inlay\":false,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}}}]},{\"name\":\"Flames 5 (colorizable)\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Flames 5 (colorizable)\",\"color\":0,\"blend\":1,\"amplitude\":1,\"dispersion\":0,\"inlay\":false,\"alphaDiscard\":true,\"discardThreshold\":0.35,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}}}]},{\"name\":\"Flames 6 (colorizable)\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Flames 6 (colorizable)\",\"color\":0,\"blend\":1,\"amplitude\":1,\"dispersion\":0,\"inlay\":false,\"alphaDiscard\":true,\"discardThreshold\":0.35,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}}},{\"filterType\":\"blur\",\"filterId\":\"Flames 6 (colorizable)\",\"padding\":30,\"quality\":4,\"blur\":2,\"zOrder\":2}]},{\"name\":\"Fire v2\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Fire v2\",\"time\":0,\"blend\":1,\"amplitude\":1,\"dispersion\":0,\"chromatic\":false,\"scaleX\":1.5,\"scaleY\":1,\"inlay\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}}}]},{\"name\":\"Fire v2 (chromatic)\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Fire v2 (chromatic)\",\"time\":0,\"blend\":2,\"amplitude\":1.1,\"dispersion\":0,\"chromatic\":true,\"scaleX\":1,\"scaleY\":1,\"inlay\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}}}]},{\"name\":\"Fire v2 (sparks)\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Fire v2 (sparks)\",\"time\":0,\"blend\":2,\"amplitude\":0.7,\"dispersion\":0,\"chromatic\":false,\"scaleX\":2,\"scaleY\":2,\"inlay\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}}}]},{\"name\":\"Fire v2 (coldfire)\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Fire v2 (coldfire)\",\"time\":0,\"color\":12312046,\"blend\":1,\"amplitude\":1,\"dispersion\":0,\"chromatic\":false,\"scaleX\":1,\"scaleY\":1,\"inlay\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}}}]},{\"name\":\"Fire v2 (blackfire)\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Fire v2 (blackfire)\",\"time\":0,\"color\":7368816,\"blend\":11,\"amplitude\":1,\"dispersion\":2.2,\"chromatic\":false,\"scaleX\":2.5,\"scaleY\":2,\"inlay\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}}}]},{\"name\":\"Super-Frost\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Super-Frost\",\"color\":11322821,\"time\":0,\"blend\":5,\"amplitude\":1,\"dispersion\":0,\"chromatic\":false,\"scaleX\":1,\"scaleY\":1,\"inlay\":true,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.002,\"animType\":\"move\"}}}]},{\"name\":\"Super-Heat\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Super-Heat\",\"time\":0,\"blend\":5,\"amplitude\":0.25,\"dispersion\":-1,\"chromatic\":false,\"scaleX\":1,\"scaleY\":1,\"inlay\":true,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.009,\"animType\":\"move\"}}}]},{\"name\":\"Evade Stance\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"transform\",\"filterId\":\"Evade Stance\",\"padding\":50,\"animated\":{\"translationX\":{\"animType\":\"sinOscillation\",\"val1\":-0.125,\"val2\":0.125,\"loopDuration\":1400},\"translationY\":{\"animType\":\"cosOscillation\",\"val1\":-0.035,\"val2\":0.035,\"loopDuration\":1400}}}]},{\"name\":\"Saving Roll\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"transform\",\"filterId\":\"Saving Roll\",\"autoDestroy\":true,\"padding\":80,\"pivotX\":0.5,\"pivotY\":0.55,\"animated\":{\"translationX\":{\"animType\":\"sinOscillation\",\"val1\":-0.22,\"val2\":0.22,\"loops\":1,\"loopDuration\":1250},\"rotation\":{\"animType\":\"sinOscillation\",\"val1\":-360,\"val2\":360,\"loops\":1,\"loopDuration\":1250},\"scaleY\":{\"animType\":\"cosOscillation\",\"val1\":1,\"val2\":1.3,\"loops\":2,\"loopDuration\":625},\"scaleX\":{\"animType\":\"cosOscillation\",\"val1\":1,\"val2\":1.4,\"loops\":2,\"loopDuration\":625}}}]},{\"name\":\"Dodge Jump\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"transform\",\"filterId\":\"Dodge Jump\",\"autoDestroy\":true,\"padding\":80,\"animated\":{\"translationY\":{\"animType\":\"cosOscillation\",\"val1\":0,\"val2\":-0.225,\"loops\":1,\"loopDuration\":900},\"scaleY\":{\"animType\":\"cosOscillation\",\"val1\":1,\"val2\":0.65,\"loops\":2,\"loopDuration\":450},\"scaleX\":{\"animType\":\"cosOscillation\",\"val1\":1,\"val2\":0.65,\"loops\":2,\"loopDuration\":450}}}]},{\"name\":\"Fairy Outline\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"globes\",\"filterId\":\"Fairy Outline\",\"time\":0,\"color\":3178734,\"distortion\":0.9,\"scale\":320,\"alphaDiscard\":true,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}},{\"filterType\":\"glow\",\"filterId\":\"Fairy Outline\",\"outerStrength\":4,\"innerStrength\":0,\"color\":16723968,\"quality\":0.5,\"padding\":10,\"animated\":{\"color\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"colorOscillation\",\"val1\":16723968,\"val2\":3211008}}}]}]"
+  },
+  {
+    "key": "vtta-tokenizer.log-level",
+    "value": "\"WARN\""
+  },
+  {
+    "name": "Gamemaster",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#b6095b",
+      "permissions": {},
+      "role": 4
+    },
+    "flags": {
+      "forge-vtt": {
+        "player": null,
+        "role": null,
+        "name": null,
+        "original": true,
+        "password": null
+      },
+      "token-action-hud": {
+        "categories": {
+          "skills": {
+            "title": "Skills",
+            "id": "skills",
+            "push": false,
+            "core": true
+          },
+          "saves": {
+            "title": "Saves",
+            "id": "saves",
+            "push": false,
+            "core": true
+          },
+          "checks": {
+            "title": "Checks",
+            "id": "checks",
+            "push": false,
+            "core": true
+          },
+          "conditions": {
+            "title": "Conditions",
+            "id": "conditions",
+            "push": false,
+            "core": true
+          },
+          "utility": {
+            "title": "Utility",
+            "id": "utility",
+            "push": false,
+            "core": true
+          },
+          "inventory": {
+            "title": "Inventory",
+            "id": "inventory",
+            "push": false,
+            "core": true
+          },
+          "spells": {
+            "title": "Spells",
+            "id": "spells",
+            "push": false,
+            "core": true
+          },
+          "feats": {
+            "title": "Features",
+            "id": "feats",
+            "push": false,
+            "core": true
+          },
+          "effects": {
+            "title": "Effects",
+            "id": "effects",
+            "push": false,
+            "core": true
+          }
+        },
+        "hudPos": {
+          "top": 263,
+          "left": 785
+        }
+      },
+      "mob-attack-tool": {
+        "endMobTurnValue": false
+      }
+    }
+  },
+  {
+    "name": "AsstGM",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#5228cc",
+      "permissions": {},
+      "role": 3
+    },
+    "flags": {
+      "token-action-hud": {
+        "categories": {
+          "inventory": {
+            "title": "Inventory",
+            "id": "inventory",
+            "push": false,
+            "core": true
+          },
+          "spells": {
+            "title": "Spells",
+            "id": "spells",
+            "push": false,
+            "core": true
+          },
+          "feats": {
+            "title": "Features",
+            "id": "feats",
+            "push": false,
+            "core": true
+          },
+          "skills": {
+            "title": "Skills",
+            "id": "skills",
+            "push": false,
+            "core": true
+          },
+          "saves": {
+            "title": "Saves",
+            "id": "saves",
+            "push": false,
+            "core": true
+          },
+          "checks": {
+            "title": "Checks",
+            "id": "checks",
+            "push": false,
+            "core": true
+          },
+          "conditions": {
+            "title": "Conditions",
+            "id": "conditions",
+            "push": false,
+            "core": true
+          },
+          "utility": {
+            "title": "Utility",
+            "id": "utility",
+            "push": false,
+            "core": true
+          },
+          "effects": {
+            "title": "Effects",
+            "id": "effects",
+            "push": false,
+            "core": true
+          }
+        }
+      },
+      "mob-attack-tool": {
+        "showIndividualAttackRolls": false,
+        "showAllAttackRolls": false,
+        "showIndividualDamageRolls": false,
+        "showMobAttackResultsToPlayers": false,
+        "noResultsMessage": false,
+        "askRollType": false,
+        "rollTypeValue": 5,
+        "showMultiattackDescription": true,
+        "autoDetectMultiattacks": "2",
+        "persistACmod": false,
+        "enableAutoAnimations": true,
+        "enableBetterRolls": true,
+        "enableDiceSoNice": true,
+        "hideDSNAttackRoll": true,
+        "autoSaveCTGgroups": false,
+        "enableMobInitiative": true,
+        "groupMobInitiative": false,
+        "enableMidi": true,
+        "enableMidiOnUseMacro": true,
+        "dontSendItemCardId": true,
+        "hiddenTableCheckBox": false,
+        "tempSetting": [
+          "1",
+          "5",
+          "1",
+          6,
+          "12",
+          "2",
+          13,
+          "14",
+          "3",
+          15,
+          "16",
+          "4",
+          17,
+          "18",
+          "5",
+          19,
+          "19",
+          "10",
+          20,
+          "20",
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Cat",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#a703e2",
+      "permissions": {},
+      "role": 2
+    },
+    "flags": {
+      "token-action-hud": {
+        "categories": {
+          "inventory": {
+            "title": "Inventory",
+            "id": "inventory",
+            "push": false,
+            "core": true
+          },
+          "feats": {
+            "title": "Features",
+            "id": "feats",
+            "push": false,
+            "core": true
+          },
+          "skills": {
+            "title": "Skills",
+            "id": "skills",
+            "push": false,
+            "core": true
+          },
+          "saves": {
+            "title": "Saves",
+            "id": "saves",
+            "push": false,
+            "core": true
+          },
+          "checks": {
+            "title": "Checks",
+            "id": "checks",
+            "push": false,
+            "core": true
+          },
+          "conditions": {
+            "title": "Conditions",
+            "id": "conditions",
+            "push": false,
+            "core": true
+          },
+          "utility": {
+            "title": "Utility",
+            "id": "utility",
+            "push": false,
+            "core": true
+          },
+          "spells": {
+            "title": "Spells",
+            "id": "spells",
+            "push": false,
+            "core": true
+          },
+          "effects": {
+            "title": "Effects",
+            "id": "effects",
+            "push": false,
+            "core": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Donald",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#54cc28",
+      "permissions": {},
+      "role": 2
+    },
+    "flags": {
+      "token-action-hud": {
+        "categories": {
+          "inventory": {
+            "title": "Inventory",
+            "id": "inventory",
+            "push": false,
+            "core": true
+          },
+          "spells": {
+            "title": "Spells",
+            "id": "spells",
+            "push": false,
+            "core": true
+          },
+          "feats": {
+            "title": "Features",
+            "id": "feats",
+            "push": false,
+            "core": true
+          },
+          "skills": {
+            "title": "Skills",
+            "id": "skills",
+            "push": false,
+            "core": true
+          },
+          "saves": {
+            "title": "Saves",
+            "id": "saves",
+            "push": false,
+            "core": true
+          },
+          "checks": {
+            "title": "Checks",
+            "id": "checks",
+            "push": false,
+            "core": true
+          },
+          "effects": {
+            "title": "Effects",
+            "id": "effects",
+            "push": false,
+            "core": true
+          },
+          "conditions": {
+            "title": "Conditions",
+            "id": "conditions",
+            "push": false,
+            "core": true
+          },
+          "utility": {
+            "title": "Utility",
+            "id": "utility",
+            "push": false,
+            "core": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Jackson",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#78cc28",
+      "permissions": {},
+      "role": 2
+    },
+    "flags": {
+      "token-action-hud": {
+        "categories": {
+          "inventory": {
+            "title": "Inventory",
+            "id": "inventory",
+            "push": false,
+            "core": true
+          },
+          "spells": {
+            "title": "Spells",
+            "id": "spells",
+            "push": false,
+            "core": true
+          },
+          "feats": {
+            "title": "Features",
+            "id": "feats",
+            "push": false,
+            "core": true
+          },
+          "skills": {
+            "title": "Skills",
+            "id": "skills",
+            "push": false,
+            "core": true
+          },
+          "saves": {
+            "title": "Saves",
+            "id": "saves",
+            "push": false,
+            "core": true
+          },
+          "checks": {
+            "title": "Checks",
+            "id": "checks",
+            "push": false,
+            "core": true
+          },
+          "conditions": {
+            "title": "Conditions",
+            "id": "conditions",
+            "push": false,
+            "core": true
+          },
+          "utility": {
+            "title": "Utility",
+            "id": "utility",
+            "push": false,
+            "core": true
+          },
+          "effects": {
+            "title": "Effects",
+            "id": "effects",
+            "push": false,
+            "core": true
+          }
+        },
+        "hudPos": {
+          "top": 77,
+          "left": 160
+        }
+      }
+    }
+  },
+  {
+    "name": "Maria",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#28cc39",
+      "permissions": {},
+      "role": 2
+    },
+    "flags": {
+      "token-action-hud": {
+        "categories": {
+          "inventory": {
+            "title": "Inventory",
+            "id": "inventory",
+            "push": false,
+            "core": true
+          },
+          "spells": {
+            "title": "Spells",
+            "id": "spells",
+            "push": false,
+            "core": true
+          },
+          "feats": {
+            "title": "Features",
+            "id": "feats",
+            "push": false,
+            "core": true
+          },
+          "skills": {
+            "title": "Skills",
+            "id": "skills",
+            "push": false,
+            "core": true
+          },
+          "saves": {
+            "title": "Saves",
+            "id": "saves",
+            "push": false,
+            "core": true
+          },
+          "checks": {
+            "title": "Checks",
+            "id": "checks",
+            "push": false,
+            "core": true
+          },
+          "effects": {
+            "title": "Effects",
+            "id": "effects",
+            "push": false,
+            "core": true
+          },
+          "conditions": {
+            "title": "Conditions",
+            "id": "conditions",
+            "push": false,
+            "core": true
+          },
+          "utility": {
+            "title": "Utility",
+            "id": "utility",
+            "push": false,
+            "core": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Nord",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#4328cc",
+      "permissions": {},
+      "role": 2
+    },
+    "flags": {
+      "token-action-hud": {
+        "categories": {
+          "inventory": {
+            "title": "Inventory",
+            "id": "inventory",
+            "push": false,
+            "core": true
+          },
+          "spells": {
+            "title": "Spells",
+            "id": "spells",
+            "push": false,
+            "core": true
+          },
+          "feats": {
+            "title": "Features",
+            "id": "feats",
+            "push": false,
+            "core": true
+          },
+          "skills": {
+            "title": "Skills",
+            "id": "skills",
+            "push": false,
+            "core": true
+          },
+          "saves": {
+            "title": "Saves",
+            "id": "saves",
+            "push": false,
+            "core": true
+          },
+          "checks": {
+            "title": "Checks",
+            "id": "checks",
+            "push": false,
+            "core": true
+          },
+          "conditions": {
+            "title": "Conditions",
+            "id": "conditions",
+            "push": false,
+            "core": true
+          },
+          "utility": {
+            "title": "Utility",
+            "id": "utility",
+            "push": false,
+            "core": true
+          },
+          "effects": {
+            "title": "Effects",
+            "id": "effects",
+            "push": false,
+            "core": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Pete",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#cc5828",
+      "permissions": {},
+      "role": 2
+    },
+    "flags": {
+      "token-action-hud": {
+        "categories": {
+          "inventory": {
+            "title": "Inventory",
+            "id": "inventory",
+            "push": false,
+            "core": true
+          },
+          "spells": {
+            "title": "Spells",
+            "id": "spells",
+            "push": false,
+            "core": true
+          },
+          "feats": {
+            "title": "Features",
+            "id": "feats",
+            "push": false,
+            "core": true
+          },
+          "skills": {
+            "title": "Skills",
+            "id": "skills",
+            "push": false,
+            "core": true
+          },
+          "saves": {
+            "title": "Saves",
+            "id": "saves",
+            "push": false,
+            "core": true
+          },
+          "checks": {
+            "title": "Checks",
+            "id": "checks",
+            "push": false,
+            "core": true
+          },
+          "conditions": {
+            "title": "Conditions",
+            "id": "conditions",
+            "push": false,
+            "core": true
+          },
+          "utility": {
+            "title": "Utility",
+            "id": "utility",
+            "push": false,
+            "core": true
+          },
+          "effects": {
+            "title": "Effects",
+            "id": "effects",
+            "push": false,
+            "core": true
+          }
+        },
+        "hudPos": {
+          "top": 626,
+          "left": 40
+        }
+      }
+    }
+  },
+  {
+    "name": "Steele",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#28cc5d",
+      "permissions": {},
+      "role": 2
+    },
+    "flags": {
+      "token-action-hud": {
+        "categories": {
+          "inventory": {
+            "title": "Inventory",
+            "id": "inventory",
+            "push": false,
+            "core": true
+          },
+          "feats": {
+            "title": "Features",
+            "id": "feats",
+            "push": false,
+            "core": true
+          },
+          "skills": {
+            "title": "Skills",
+            "id": "skills",
+            "push": false,
+            "core": true
+          },
+          "saves": {
+            "title": "Saves",
+            "id": "saves",
+            "push": false,
+            "core": true
+          },
+          "checks": {
+            "title": "Checks",
+            "id": "checks",
+            "push": false,
+            "core": true
+          },
+          "conditions": {
+            "title": "Conditions",
+            "id": "conditions",
+            "push": false,
+            "core": true
+          },
+          "utility": {
+            "title": "Utility",
+            "id": "utility",
+            "push": false,
+            "core": true
+          },
+          "effects": {
+            "title": "Effects",
+            "id": "effects",
+            "push": false,
+            "core": true
+          }
+        },
+        "hudPos": {
+          "top": 33,
+          "left": 174
+        }
+      }
+    }
+  }
+]
