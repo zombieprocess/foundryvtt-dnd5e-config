@@ -31,7 +31,10 @@ foundryvtt-dnd5e-config/
 
 ## Modules
 
-### Base Foundry Enhancements
+### Base Foundry Enhancements :building_construction:
+
+These modules modify Foundry but pretty much fix components that are not mature or address some shortcomings.
+
 <details>
   <summary>Click to expand</summary
 
@@ -55,7 +58,8 @@ foundryvtt-dnd5e-config/
 - `Tokenizer` - Edit/Add frames around tokens
 </details>
 
-### DnD 5e and Game Automation | Ease of Play
+### DnD 5e and Game Automation | Ease of Play :crossed_swords:
+These modules are what makes Foundry use Dungeons and Dragons 5e rules and includes automations or improvements for players making things run much smoother.
 <details>
   <summary>Click to expand</summary>
 
@@ -88,7 +92,9 @@ foundryvtt-dnd5e-config/
 
 </details>
 
-### GM Addons to make game prep easier
+### GM Addons to make game prep easier :world_map:
+These modules are focused around the GM, creating new content or running a session.
+
 <details>
   <summary>Click to expand</summary>
 
@@ -101,7 +107,8 @@ foundryvtt-dnd5e-config/
 
 </details>
 
-### Integrations with other tools/sites
+### Integrations with other tools/sites :hammer_and_wrench:
+These modules are for bridging and integrating with other tools, like D&D Beyond or The Forge VTT.
 <details>
   <summary>Click to expand</summary>
 
@@ -110,7 +117,8 @@ foundryvtt-dnd5e-config/
 
 </details>
 
-### Evaluating/Testing
+### Evaluating/Testing :sparkles:
+These modules are being evaluated and may be used permanently or removed depending on how well they add to the experience.
 <details>
   <summary>Click to expand</summary>
 
@@ -125,8 +133,8 @@ foundryvtt-dnd5e-config/
 
 </details>
 
-### Future stuff
-
+### Future stuff :soon:
+This module list is needed for future improvements or evaluated to replace one of our existing tools. For example we don't have flying in our campaign yet, so we don't need to worry about levels/height. The top three on the list will make this easier.
 <details>
   <summary>Click</summary>
 
