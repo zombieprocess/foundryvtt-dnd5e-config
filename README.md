@@ -58,6 +58,8 @@ These modules modify Foundry but pretty much fix components that are not mature 
 - `Tokenizer` - Edit/Add frames around tokens
 </details>
 
+---
+
 ### DnD 5e and Game Automation | Ease of Play :crossed_swords:
 These modules are what makes Foundry use Dungeons and Dragons 5e rules and includes automations or improvements for players making things run much smoother.
 <details>
@@ -92,6 +94,8 @@ These modules are what makes Foundry use Dungeons and Dragons 5e rules and inclu
 
 </details>
 
+---
+
 ### GM Addons to make game prep easier :world_map:
 These modules are focused around the GM, creating new content or running a session.
 
@@ -107,6 +111,8 @@ These modules are focused around the GM, creating new content or running a sessi
 
 </details>
 
+---
+
 ### Integrations with other tools/sites :hammer_and_wrench:
 These modules are for bridging and integrating with other tools, like D&D Beyond or The Forge VTT.
 <details>
@@ -116,6 +122,8 @@ These modules are for bridging and integrating with other tools, like D&D Beyond
   - `The Forge: More Awesomeness` - forge module dependency, need API key to configure storage use
 
 </details>
+
+---
 
 ### Evaluating/Testing :sparkles:
 These modules are being evaluated and may be used permanently or removed depending on how well they add to the experience.
@@ -132,6 +140,8 @@ These modules are being evaluated and may be used permanently or removed dependi
 - `tabletopaudio` (installed but disabled) - integration with the website https://tabletopaudio.com/ - can create audio streams players can tune in to
 
 </details>
+
+---
 
 ### Future stuff :soon:
 This module list is needed for future improvements or evaluated to replace one of our existing tools. For example we don't have flying in our campaign yet, so we don't need to worry about levels/height. The top three on the list will make this easier.
