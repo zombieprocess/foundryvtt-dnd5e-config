@@ -1,0 +1,302 @@
+{
+    "hidden": {
+        "compendiumList": [],
+        "titleText": "hidden-compendiums",
+        "_id": "hidden",
+        "compendiums": [],
+        "expanded": false
+    },
+    "default": {
+        "compendiumList": [],
+        "titleText": "Default",
+        "_id": "default",
+        "colorText": "#000000",
+        "compendiums": [],
+        "expanded": false
+    },
+    "cfolder-wzbiqppqha": {
+        "_id": "cfolder-wzbiqppqha",
+        "titleText": "Actor",
+        "compendiumList": [
+            "dnd5e.heroes",
+            "dnd5e.monsters",
+            "JB2A_DnD5e.jb2a-actors",
+            "forge-vtt-shared-compendiums-aitd.actors",
+            "forge-vtt-shared-compendiums-aitd.monsters",
+            "forge-vtt-shared-compendiums-dnd-beyond-1.actors",
+            "forge-vtt-shared-compendiums-dnd-beyond-1.monsters",
+            "world.ddb-abqitd-monsters"
+        ],
+        "colorText": "#000000",
+        "fontColorText": "#FFFFFF",
+        "compendiums": [
+            {
+                "code": "dnd5e.heroes",
+                "folder": "cfolder-wzbiqppqha"
+            },
+            {
+                "code": "dnd5e.monsters",
+                "folder": "cfolder-wzbiqppqha"
+            },
+            {
+                "code": "JB2A_DnD5e.jb2a-actors",
+                "folder": "cfolder-wzbiqppqha"
+            },
+            {
+                "code": "world.ddb-abqitd-monsters",
+                "folder": "cfolder-wzbiqppqha"
+            }
+        ],
+        "expanded": false
+    },
+    "cfolder-7rsv7wmlnv": {
+        "_id": "cfolder-7rsv7wmlnv",
+        "titleText": "Item",
+        "compendiumList": [
+            "dnd5e.items",
+            "dnd5e.tradegoods",
+            "dnd5e.spells",
+            "dnd5e.classes",
+            "dnd5e.classfeatures",
+            "dnd5e.races",
+            "dnd5e.monsterfeatures",
+            "Dynamic-Effects-SRD.DAE SRD Items",
+            "Dynamic-Effects-SRD.DAE SRD Feats",
+            "Dynamic-Effects-SRD.DAE SRD Magic Items",
+            "dae.premadeitems",
+            "forge-vtt-shared-compendiums-aitd.spells",
+            "forge-vtt-shared-compendiums-aitd.items",
+            "forge-vtt-shared-compendiums-aitd.classfeatures",
+            "forge-vtt-shared-compendiums-aitd.monsterfeatures",
+            "forge-vtt-shared-compendiums-dnd-beyond-1.spells",
+            "forge-vtt-shared-compendiums-dnd-beyond-1.items",
+            "forge-vtt-shared-compendiums-dnd-beyond-1.classfeatures",
+            "forge-vtt-shared-compendiums-dnd-beyond-1.monsterfeatures",
+            "world.ddb-abqitd-spells",
+            "world.ddb-abqitd-items",
+            "world.ddb-abqitd-class-features",
+            "world.ddb-abqitd-classes",
+            "world.ddb-abqitd-racial-traits",
+            "world.ddb-abqitd-feats",
+            "world.ddb-abqitd-races",
+            "world.ddb-abqitd-override"
+        ],
+        "colorText": "#000000",
+        "fontColorText": "#FFFFFF",
+        "compendiums": [
+            {
+                "code": "dnd5e.items",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "dnd5e.tradegoods",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "dnd5e.spells",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "dnd5e.classes",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "dnd5e.classfeatures",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "dnd5e.races",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "dnd5e.monsterfeatures",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "Dynamic-Effects-SRD.DAE SRD Items",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "Dynamic-Effects-SRD.DAE SRD Feats",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "Dynamic-Effects-SRD.DAE SRD Magic Items",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "dae.premadeitems",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "world.ddb-abqitd-spells",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "world.ddb-abqitd-items",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "world.ddb-abqitd-class-features",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "world.ddb-abqitd-classes",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "world.ddb-abqitd-racial-traits",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "world.ddb-abqitd-feats",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "world.ddb-abqitd-races",
+                "folder": "cfolder-7rsv7wmlnv"
+            },
+            {
+                "code": "world.ddb-abqitd-override",
+                "folder": "cfolder-7rsv7wmlnv"
+            }
+        ],
+        "expanded": false
+    },
+    "cfolder-vol62s0i2w": {
+        "_id": "cfolder-vol62s0i2w",
+        "titleText": "JournalEntry",
+        "compendiumList": [
+            "dnd5e.rules",
+            "combat-utility-belt.conditionsdnd5e",
+            "forge-vtt-shared-compendiums-aitd.journals",
+            "forge-vtt-shared-compendiums-dnd-beyond-1.journals"
+        ],
+        "colorText": "#000000",
+        "fontColorText": "#FFFFFF",
+        "compendiums": [
+            {
+                "code": "dnd5e.rules",
+                "folder": "cfolder-vol62s0i2w"
+            }
+        ],
+        "expanded": false
+    },
+    "cfolder-1s81nbyvi0": {
+        "_id": "cfolder-1s81nbyvi0",
+        "titleText": "Macro",
+        "compendiumList": [
+            "JB2A_DnD5e.jb2a-macros",
+            "advanced-macros.macros",
+            "dae.sample-macros",
+            "forge-vtt-shared-compendiums-aitd.macros",
+            "forge-vtt-shared-compendiums-dnd-beyond-1.macros",
+            "foundry_community_macros.community-macros-5e",
+            "foundry_community_macros.community-macros-age",
+            "foundry_community_macros.community-macros-pf1e",
+            "foundry_community_macros.community-macros-pf2e",
+            "foundry_community_macros.community-macros-misc",
+            "foundry_community_macros.community-macros-module-specific",
+            "foundry_community_macros.community-macros-roll",
+            "foundry_community_macros.community-macros-token",
+            "foundry_community_macros.community-macros-wfrp4e",
+            "fxmaster.fxmaster",
+            "healthEstimate.deathmacro"
+        ],
+        "colorText": "#000000",
+        "fontColorText": "#FFFFFF",
+        "compendiums": [
+            {
+                "code": "advanced-macros.macros",
+                "folder": "cfolder-1s81nbyvi0"
+            },
+            {
+                "code": "foundry_community_macros.community-macros-5e",
+                "folder": "cfolder-1s81nbyvi0"
+            },
+            {
+                "code": "foundry_community_macros.community-macros-age",
+                "folder": "cfolder-1s81nbyvi0"
+            },
+            {
+                "code": "foundry_community_macros.community-macros-pf1e",
+                "folder": "cfolder-1s81nbyvi0"
+            },
+            {
+                "code": "foundry_community_macros.community-macros-pf2e",
+                "folder": "cfolder-1s81nbyvi0"
+            },
+            {
+                "code": "foundry_community_macros.community-macros-misc",
+                "folder": "cfolder-1s81nbyvi0"
+            },
+            {
+                "code": "foundry_community_macros.community-macros-module-specific",
+                "folder": "cfolder-1s81nbyvi0"
+            },
+            {
+                "code": "foundry_community_macros.community-macros-roll",
+                "folder": "cfolder-1s81nbyvi0"
+            },
+            {
+                "code": "foundry_community_macros.community-macros-token",
+                "folder": "cfolder-1s81nbyvi0"
+            },
+            {
+                "code": "foundry_community_macros.community-macros-wfrp4e",
+                "folder": "cfolder-1s81nbyvi0"
+            },
+            {
+                "code": "fxmaster.fxmaster",
+                "folder": "cfolder-1s81nbyvi0"
+            },
+            {
+                "code": "healthEstimate.deathmacro",
+                "folder": "cfolder-1s81nbyvi0"
+            }
+        ],
+        "expanded": false
+    },
+    "cfolder-ue3zqgrek8": {
+        "_id": "cfolder-ue3zqgrek8",
+        "titleText": "Scene",
+        "compendiumList": [
+            "forge-vtt-shared-compendiums-aitd.scenes",
+            "forge-vtt-shared-compendiums-dnd-beyond-1.scenes"
+        ],
+        "colorText": "#000000",
+        "fontColorText": "#FFFFFF",
+        "compendiums": [],
+        "expanded": false
+    },
+    "cfolder-qgb6wgioeo": {
+        "_id": "cfolder-qgb6wgioeo",
+        "titleText": "RollTable",
+        "compendiumList": [
+            "forge-vtt-shared-compendiums-aitd.tables",
+            "forge-vtt-shared-compendiums-dnd-beyond-1.tables",
+            "world.ddb-abqitd-tables"
+        ],
+        "colorText": "#000000",
+        "fontColorText": "#FFFFFF",
+        "compendiums": [
+            {
+                "code": "world.ddb-abqitd-tables",
+                "folder": "cfolder-qgb6wgioeo"
+            }
+        ],
+        "expanded": false
+    },
+    "cfolder-e8famkifmf": {
+        "_id": "cfolder-e8famkifmf",
+        "titleText": "Playlist",
+        "compendiumList": [
+            "forge-vtt-shared-compendiums-aitd.playlists",
+            "forge-vtt-shared-compendiums-dnd-beyond-1.playlists"
+        ],
+        "colorText": "#000000",
+        "fontColorText": "#FFFFFF",
+        "compendiums": [],
+        "expanded": false
+    }
+}
