@@ -138,6 +138,7 @@ These modules are being evaluated and may be used permanently or removed dependi
 - `Dice So Nice!` (installed but disabled)
 - `DnD5e UI` (installed but disabled) - Creates nice cards in chat, tab icons change which might require some getting used to
 - `Forien's Quest Log` (installed but disabled)
+- [`multilevel Tokens`](https://foundryvtt.com/packages/multilevel-tokens/) - Adds several helpful token automation features around multi level maps.
 - [`Less Fog`](https://github.com/trdischat/lessfog) (installed but disabled)
 - `tabletopaudio` (installed but disabled) - integration with the website https://tabletopaudio.com/ - can create audio streams players can tune in to
 
