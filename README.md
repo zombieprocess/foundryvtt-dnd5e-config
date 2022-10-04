@@ -54,6 +54,7 @@ These modules modify Foundry but pretty much fix components that are not mature 
 - `Selective Show` - **DO NOT NEED in v10** - function is added into core
 - `Settings Extender` - module dependency
 - `socketlib` - module dependency
+- [`tagger`](https://foundryvtt.com/packages/tagger) - creates tags on game objects/assets which enables more elegant automations
 - `Token Mold` - fix and improve token creation from actors with templates
 - `Tokenizer` - Edit/Add frames around tokens
 </details>
@@ -91,6 +92,7 @@ These modules are what makes Foundry use Dungeons and Dragons 5e rules and inclu
 - [`Monks Active Tiles`](https://foundryvtt.com/packages/monks-active-tiles) - Enables tile automations like teleporting, traps, etc.
 - `Perfect Vision` - **MIGHT be going away in v10** because this is in the core
 - `Splatter` - blood Splatter on "bloodied" and death
+- [`Token Attacher`](https://foundryvtt.com/packages/token-attacher) - Enables easier token/tile management and automations like vehicles and things that move
 
 </details>
 
