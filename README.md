@@ -138,7 +138,7 @@ These modules are being evaluated and may be used permanently or removed dependi
 - `Combat Utility Belt` - (installed but disabled) - might not need it anymore with other automations
 - `Dice So Nice!` (installed but disabled)
 - `DnD5e UI` (installed but disabled) - Creates nice cards in chat, tab icons change which might require some getting used to
-- [`Follow Me!`](https://foundryvtt.com/packages/followme) - Sorta like token attacher, but for players? Supports familiar game-player
+- [`Follow Me!`](https://foundryvtt.com/packages/followme) - Sorta like token attacher, but for players? Supports familiar game-player. Press `f` while hovering over the token you want to follow.
 - [`Foundryvtt Mount Up!`](https://foundryvtt.com/packages/foundryvtt-mountup) - Similar to `Follow Me!`, supports mounts and familiar and mounts game-play
 - `Forien's Quest Log` (installed but disabled)
 - [`multilevel Tokens`](https://foundryvtt.com/packages/multilevel-tokens/) - Adds several helpful token automation features around multi level maps.
