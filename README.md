@@ -88,9 +88,9 @@ These modules are what makes Foundry use Dungeons and Dragons 5e rules and inclu
   - `Midi SRD`
   - `Token Magic Effects`
 - `Mob Attack Tool` - Combine attacks from many creatures into one
+- [`Monks Active Tiles`](https://foundryvtt.com/packages/monks-active-tiles) - Enables tile automations like teleporting, traps, etc.
 - `Perfect Vision` - **MIGHT be going away in v10** because this is in the core
 - `Splatter` - blood Splatter on "bloodied" and death
-- [`Trigger Happy`](https://foundryvtt.com/packages/trigger-happy) - Trigger events like pause the game for traps, or descriptions, or make Automations/effects
 
 </details>
 
