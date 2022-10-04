@@ -41,6 +41,7 @@ These modules modify Foundry but pretty much fix components that are not mature 
 - `Compendium Folders` - organizes Compendium content
 - `Changelogs & Conflicts`
 - `Dice Tray` - Adds a dice tray under the chat
+- [`Drag Ruler`](https://foundryvtt.com/packages/drag-ruler) - Vastly improves token movement - press `space` for waypoints.
 - [`Forien's Copy Environment`](https://foundryvtt.com/packages/forien-copy-environment/) - Export/Import global server configs
 - `Foundry Community Macros`
 - `lib - Color Settings` - module dependency
