@@ -41,6 +41,7 @@ These modules modify Foundry but pretty much fix components that are not mature 
 - `Compendium Folders` - organizes Compendium content
 - `Changelogs & Conflicts`
 - `Dice Tray` - Adds a dice tray under the chat
+- [`Drag Ruler`](https://foundryvtt.com/packages/drag-ruler) - Vastly improves token movement - press `space` for waypoints.
 - [`Forien's Copy Environment`](https://foundryvtt.com/packages/forien-copy-environment/) - Export/Import global server configs
 - `Foundry Community Macros`
 - `lib - Color Settings` - module dependency
@@ -54,6 +55,7 @@ These modules modify Foundry but pretty much fix components that are not mature 
 - `Selective Show` - **DO NOT NEED in v10** - function is added into core
 - `Settings Extender` - module dependency
 - `socketlib` - module dependency
+- [`tagger`](https://foundryvtt.com/packages/tagger) - creates tags on game objects/assets which enables more elegant automations
 - `Token Mold` - fix and improve token creation from actors with templates
 - `Tokenizer` - Edit/Add frames around tokens
 </details>
@@ -88,9 +90,10 @@ These modules are what makes Foundry use Dungeons and Dragons 5e rules and inclu
   - `Midi SRD`
   - `Token Magic Effects`
 - `Mob Attack Tool` - Combine attacks from many creatures into one
+- [`Monks Active Tiles`](https://foundryvtt.com/packages/monks-active-tiles) - Enables tile automations like teleporting, traps, etc.
 - `Perfect Vision` - **MIGHT be going away in v10** because this is in the core
 - `Splatter` - blood Splatter on "bloodied" and death
-- [`Trigger Happy`](https://foundryvtt.com/packages/trigger-happy) - Trigger events like pause the game for traps, or descriptions, or make Automations/effects
+- [`Token Attacher`](https://foundryvtt.com/packages/token-attacher) - Enables easier token/tile management and automations like vehicles and things that move
 
 </details>
 
@@ -135,8 +138,10 @@ These modules are being evaluated and may be used permanently or removed dependi
 - `Combat Utility Belt` - (installed but disabled) - might not need it anymore with other automations
 - `Dice So Nice!` (installed but disabled)
 - `DnD5e UI` (installed but disabled) - Creates nice cards in chat, tab icons change which might require some getting used to
+- [`Follow Me!`](https://foundryvtt.com/packages/followme) - Sorta like token attacher, but for players? Supports familiar game-player. Press `f` while hovering over the token you want to follow.
+- [`Foundryvtt Mount Up!`](https://foundryvtt.com/packages/foundryvtt-mountup) - Similar to `Follow Me!`, supports mounts and familiar and mounts game-play
 - `Forien's Quest Log` (installed but disabled)
-- [`Less Fog`](https://github.com/trdischat/lessfog) (installed but disabled)
+- [`multilevel Tokens`](https://foundryvtt.com/packages/multilevel-tokens/) - Adds several helpful token automation features around multi level maps.
 - `tabletopaudio` (installed but disabled) - integration with the website https://tabletopaudio.com/ - can create audio streams players can tune in to
 
 </details>
