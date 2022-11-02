@@ -145,9 +145,10 @@ These modules are being evaluated and may be used permanently or removed dependi
 - `Forien's Quest Log` (installed but disabled) - could be useful?
 - [`multilevel Tokens`](https://foundryvtt.com/packages/multilevel-tokens/) - Adds several helpful token automation features around multi level maps.
 - `tabletopaudio` (installed but disabled) - integration with the website https://tabletopaudio.com/ - can create audio streams players can tune in to
-- Better Roofs
-- Levels
-- Wall Height
+- Support for flying among other things coming up
+  - [Better Roofs](https://theripper93.com/#/module/betterroofs) - draw roofs when it makes sense, and obscure inside buildings for better immersion.
+  - [Levels](https://theripper93.com/#/module/levels) - works in conjunction with better roofs
+  - [Wall Height](https://theripper93.com/#/module/wall-height) - Now walls have height - so in theory you can fly over them
 
 </details>
 
