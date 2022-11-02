@@ -124,7 +124,7 @@ These modules are for bridging and integrating with other tools, like D&D Beyond
   <summary>Click to expand</summary>
 
   - [`D&D Beyond Importer`](https://foundryvtt.com/packages/ddb-importer) - Mature DDB import and sync tool. Patreon supported. Can sync players back to D&D Beyond.
-  - `The Forge: More Awesomeness` - forge module dependency, need API key to configure storage use
+  - `The Forge: More Awesomeness` - forge module dependency, need API key to configure forge storage use
 
 </details>
 
@@ -135,16 +135,19 @@ These modules are being evaluated and may be used permanently or removed dependi
 <details>
   <summary>Click to expand</summary>
 
-- `Argon - Combat HUD` (active)
-- `Combat Carousel` (active) - adds alternative combat tracker
+- `Argon - Combat HUD` (active) - adds a fancy RPG game interface to skills and items.
+- `Combat Carousel` (active) - adds alternative combat tracker available during combats.
 - `Combat Utility Belt` - (installed but disabled) - might not need it anymore with other automations
-- `Dice So Nice!` (installed but disabled)
+- `Dice So Nice!` - Adds 3D configurable dice to the VTT
 - `DnD5e UI` (installed but disabled) - Creates nice cards in chat, tab icons change which might require some getting used to
 - [`Follow Me!`](https://foundryvtt.com/packages/followme) - Sorta like token attacher, but for players? Supports familiar game-player. Press `f` while hovering over the token you want to follow.
 - [`Foundryvtt Mount Up!`](https://foundryvtt.com/packages/foundryvtt-mountup) - Similar to `Follow Me!`, supports mounts and familiar and mounts game-play
-- `Forien's Quest Log` (installed but disabled)
+- `Forien's Quest Log` (installed but disabled) - could be useful?
 - [`multilevel Tokens`](https://foundryvtt.com/packages/multilevel-tokens/) - Adds several helpful token automation features around multi level maps.
 - `tabletopaudio` (installed but disabled) - integration with the website https://tabletopaudio.com/ - can create audio streams players can tune in to
+- Better Roofs
+- Levels
+- Wall Height
 
 </details>
 
@@ -155,9 +158,11 @@ This module list is needed for future improvements or evaluated to replace one o
 <details>
   <summary>Click</summary>
 
-- Better Roofs
-- Levels
-- Wall Height
+- [Plutonium 5e.tools](https://5e.tools/plutonium.html) - This could possibly replace `Moulinette` modules and more! Lots of promise!
+  - Appears to support adventure imports, as well as monsters, spells, items
+  - For easier prep - adds art browser, asset finder/explorer
+  - Easier management - utils for cleaning, moving, organizing
+- [automated-evokations](https://theripper93.com/#/module/automated-evocations) - Summoning done right, makes it so easy
 - Monk's Tokenbar (LMRTFY alternative?)
 - DDB Gamelog (DND Beyond)
 - Status Icons
