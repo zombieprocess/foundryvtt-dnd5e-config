@@ -58,6 +58,8 @@ These modules modify Foundry but pretty much fix components that are not mature 
 - [`tagger`](https://foundryvtt.com/packages/tagger) - creates tags on game objects/assets which enables more elegant automations
 - `Token Mold` - fix and improve token creation from actors with templates
 - `Tokenizer` - Edit/Add frames around tokens
+- [`tidy-ui-game-settings`](https://foundryvtt.com/packages/tidy-ui_game-settings) - Improves the game settings UI and significantly improves the Module Settings - adds search and collapses all the module settings. This should be in CORE FoundryVTT.
+
 </details>
 
 ---
