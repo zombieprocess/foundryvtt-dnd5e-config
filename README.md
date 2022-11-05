@@ -44,6 +44,8 @@ These modules modify Foundry but pretty much fix components that are not mature 
 - [`Drag Ruler`](https://foundryvtt.com/packages/drag-ruler) - Vastly improves token movement - press `space` for waypoints.
 - [`Forien's Copy Environment`](https://foundryvtt.com/packages/forien-copy-environment/) - Export/Import global server configs
 - `Foundry Community Macros`
+- [`Follow Me!`](https://foundryvtt.com/packages/followme) - Similar to token attacher, Supports familiars, NPC's, and players "following". Press `f` while hovering over the token you want to follow.
+- [`Foundryvtt Mount Up!`](https://foundryvtt.com/packages/foundryvtt-mountup) - Similar to `Follow Me!`, supports familiar's riding on their players and mounts game-play.
 - `lib - Color Settings` - module dependency
 - `libWrapper` - module dependency
 - `Pings` - longpress mouse button to "ping" a place on a map, shift+click to snap the camera to the location
@@ -52,6 +54,7 @@ These modules modify Foundry but pretty much fix components that are not mature 
 - [`Navigation Presets`](https://foundryvtt.com/packages/navigation-presets) - organizes maps, scenes, and chapters/groups
 - `Module Compatibility Checker` - See settings > Manage Modules > `Button`
 - `Minimal UI` - Does just that, collapses tray for abilities and macros, same for logged in users, drops the Foundryvtt icon which just takes up space.
+- [`scaleGrid`](https://foundryvtt.com/packages/scaleGrid) - Grid Scaler tool to quickly match the scene grid to your map's grid. Works with both squares and hexes.
 - `Selective Show` - **DO NOT NEED in v10** - function is added into core
 - `Settings Extender` - module dependency
 - `socketlib` - module dependency
@@ -77,6 +80,7 @@ These modules are what makes Foundry use Dungeons and Dragons 5e rules and inclu
 - `Combat Ready!` - Helps combat flow better with notifications like "Next Up" and if you want timers for turns.
 - `Dfreds Convenient Effects` - scripted macros and effects for abilities, mechanics and spells which can be added to players and npcs.
 - `Dfreds Droppables` -
+- `Dice So Nice!` - Adds 3D configurable dice to the VTT
 - `DNDBeyond Character Sheet for 5E` - Reskin of the default character sheet
 - `DNDBeyond NPC Sheet` - Reskin of the default NPC sheet
 - `FXMaster` - Adds additional effects, like weather, environment and matching sounds, pull these in on demand.
@@ -107,12 +111,14 @@ These modules are focused around the GM, creating new content or running a sessi
 <details>
   <summary>Click to expand</summary>
 
+  - [`border control`](https://foundryvtt.com/packages/Border-Control) - toggle borders on/off for tiles, very useful for scenes that use lots of assets
   - `Moulinette Core`
     - `Moulinette Game Icons (module)`
     - `Moulinette Image Search (module)`
     - `Moulinette Scenes (module)`
     - `Moulinette Sound & SoundPad (module)`
     - `Moulinette Tiles (module)`
+  - [`multilevel Tokens`](https://foundryvtt.com/packages/multilevel-tokens/) - Adds several helpful token automation features for multi-level maps. Simulated height/vision, teleport between levels. Specifically for maps that show multiple levels on one map.
 
 </details>
 
@@ -131,41 +137,37 @@ These modules are for bridging and integrating with other tools, like D&D Beyond
 ---
 
 ### Evaluating/Testing :sparkles:
-These modules are being evaluated and may be used permanently or removed depending on how well they add to the experience.
+These modules are being evaluated and may be used permanently or removed depending on how well they add to the experience. (In order of adding to the list/maturity)
 <details>
   <summary>Click to expand</summary>
 
 - `Argon - Combat HUD` (active) - adds a fancy RPG game interface to skills and items.
 - `Combat Carousel` (active) - adds alternative combat tracker available during combats.
 - `Combat Utility Belt` - (installed but disabled) - might not need it anymore with other automations
-- `Dice So Nice!` - Adds 3D configurable dice to the VTT
 - `DnD5e UI` (installed but disabled) - Creates nice cards in chat, tab icons change which might require some getting used to
-- [`Follow Me!`](https://foundryvtt.com/packages/followme) - Sorta like token attacher, but for players? Supports familiar game-player. Press `f` while hovering over the token you want to follow.
-- [`Foundryvtt Mount Up!`](https://foundryvtt.com/packages/foundryvtt-mountup) - Similar to `Follow Me!`, supports mounts and familiar and mounts game-play
-- `Forien's Quest Log` (installed but disabled) - could be useful?
-- [`multilevel Tokens`](https://foundryvtt.com/packages/multilevel-tokens/) - Adds several helpful token automation features around multi level maps.
-- `tabletopaudio` (installed but disabled) - integration with the website https://tabletopaudio.com/ - can create audio streams players can tune in to
 - Support for flying among other things coming up
   - [Better Roofs](https://theripper93.com/#/module/betterroofs) - draw roofs when it makes sense, and obscure inside buildings for better immersion.
   - [Levels](https://theripper93.com/#/module/levels) - works in conjunction with better roofs
   - [Wall Height](https://theripper93.com/#/module/wall-height) - Now walls have height - so in theory you can fly over them
+- [automated-evocations](https://theripper93.com/#/module/automated-evocations) - Summoning done right, makes it so easy
 
 </details>
 
 ---
 
 ### Future stuff :soon:
-This module list is needed for future improvements or evaluated to replace one of our existing tools. For example we don't have flying in our campaign yet, so we don't need to worry about levels/height. The top three on the list will make this easier.
+This module list is needed for future improvements or evaluated to replace one of our existing tools. Or even something that we are curious about.
 <details>
   <summary>Click</summary>
 
-- [Plutonium 5e.tools](https://5e.tools/plutonium.html) - This could possibly replace `Moulinette` modules and more! Lots of promise!
-  - Appears to support adventure imports, as well as monsters, spells, items
-  - For easier prep - adds art browser, asset finder/explorer
-  - Easier management - utils for cleaning, moving, organizing
-- [automated-evokations](https://theripper93.com/#/module/automated-evocations) - Summoning done right, makes it so easy
-- Monk's Tokenbar (LMRTFY alternative?)
-- DDB Gamelog (DND Beyond)
-- Status Icons
+  - DDB Gamelog (DND Beyond)?
+  - `Forien's Quest Log` (installed but disabled) - could be useful? Ask the players
+  - Monk's Tokenbar (LMRTFY alternative?)
+  - [Plutonium 5e.tools](https://5e.tools/plutonium.html) - This could possibly replace `Moulinette` modules and more! Lots of promise!
+    - Appears to support adventure imports, as well as monsters, spells, items
+    - For easier prep - adds art browser, asset finder/explorer
+    - Easier management - utils for cleaning, moving, organizing
+  - `tabletopaudio` (installed but disabled) - integration with the website https://tabletopaudio.com/ - can create audio streams players can tune in to
+  - Status Icons?
 
 </details>
