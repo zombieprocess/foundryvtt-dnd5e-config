@@ -145,6 +145,7 @@ These modules are being evaluated and may be used permanently or removed dependi
 - `Combat Carousel` (active) - adds alternative combat tracker available during combats.
 - `Combat Utility Belt` - (installed but disabled) - might not need it anymore with other automations
 - `DnD5e UI` (installed but disabled) - Creates nice cards in chat, tab icons change which might require some getting used to
+- [`FoundryVTT Automated Polymorpher`](https://foundryvtt.com/packages/automated-polymorpher) - For performing Polymorph, Wildshapes, and Disguise self just like the summoner.
 - Support for flying among other things coming up
   - [Better Roofs](https://theripper93.com/#/module/betterroofs) - draw roofs when it makes sense, and obscure inside buildings for better immersion.
   - [Levels](https://theripper93.com/#/module/levels) - works in conjunction with better roofs
